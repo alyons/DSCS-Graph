@@ -1,0 +1,3247 @@
+Baby
+
+Baby I 「幼年期I」
+All Baby I Digimon share the same special and support skills.
+
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Bubble	アワ	Magic attack, 30 Water damage to one foe. 90% accuracy.	2	Lv. 1	Special skill
+Innocent Pupil	無邪気な瞳	Increase accuracy and evasion by 1%.	Support skill
+Kuramon クラモン
+
+No. 001
+Type: Free　　　　　　　　　　　Attribute: Neutral
+Equipment Slots: 0　　　　　　　　　Party Memory: 2
+Digivolution Requirements
+
+Digivolves Into	Level
+Tsumemon ツメモン	5
+Pagumon パグモン	5
+Bubbmon バブモン
+
+No. 002
+Type: Free　　　　　　　　　　　Attribute: Neutral
+Equipment Slots: 0　　　　　　　　　Party Memory: 2
+Digivolution Requirements
+
+Digivolves Into	Level	HP	DEF
+Motimon モチモン	3		15
+Pyocomon ピョコモン	3	50
+Tanemon タネモン	5
+Punimon プニモン
+
+No. 003
+Type: Free　　　　　　　　　　　Attribute: Neutral
+Equipment Slots: 0　　　　　　　　　Party Memory: 2
+Digivolution Requirements
+
+Digivolves Into	Level	INT
+Nyaromon ニャロモン	3	10
+Tsunomon ツノモン	5
+Botamon ボタモン
+
+No. 004
+Type: Free　　　　　　　　　　　Attribute: Neutral
+Equipment Slots: 0　　　　　　　　　Party Memory: 2
+Digivolution Requirements
+
+Digivolves Into	Level	ATK
+Koromon コロモン	3	15
+Wanyamon ワニャモン	5
+Poyomon ポヨモン
+
+No. 005
+Type: Free　　　　　　　　　　　Attribute: Neutral
+Equipment Slots: 0　　　　　　　　　Party Memory: 2
+Digivolution Requirements
+
+Digivolves Into	Level	INT
+Pukamon プカモン	3	15
+Tokomon トコモン	5
+In-Training
+
+Baby II 「幼年期II」
+All Baby II Digimon share the same special and support skills.
+
+Koromon コロモン
+
+No. 006
+Type: Free　　　　　　　　　　　Attribute: Fire
+Equipment Slots: 0　　　　　　　　　Party Memory: 3
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Bubble	アワ	Magic attack, 30 Water damage to one foe. 90% accuracy.	2	Lv. 1	Special skill
+Volcano Napalm I	ヴォルケナパームI	Physical attack, 65 Fire damage to one foe. 95% accuracy.	3	Lv. 5	Inherit skill
+Innocent Pupil	無邪気な瞳	Increase accuracy and evasion by 1%.	Support skill
+De-digivolution
+
+De-digivolves Into	Botamon ボタモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	SPD	ABI	CAM	Item
+Agumon アグモン	9		30				10%
+Huckmon ハックモン	9		20			20		Steel Will
+Guilmon ギルモン	7		30		20
+ToyAgumon トイアグモン	8	75		20
+Tanemon タネモン
+
+No. 007
+Type: Free　　　　　　　　　　　Attribute: Plant
+Equipment Slots: 0　　　　　　　　　Party Memory: 3
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Bubble	アワ	Magic attack, 30 Water damage to one foe. 90% accuracy.	2	Lv. 1	Special skill
+Gaia Element I	ガイアエレメントI	Magic attack, 55 Plant damage to one foe. 95% accuracy.	3	Lv. 5	Inherit skill
+Innocent Pupil	無邪気な瞳	Increase accuracy and evasion by 1%.	Support skill
+De-digivolution
+
+De-digivolves Into	Bubbmon バブモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	INT	SPD	CAM
+Lalamon ララモン	9	75
+Palmon パルモン	8	100				10%
+Renamon レナモン	7		20	20	20
+Tsunomon ツノモン
+
+No. 008
+Type: Free　　　　　　　　　　　Attribute: Earth
+Equipment Slots: 0　　　　　　　　　Party Memory: 3
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Bubble	アワ	Magic attack, 30 Water damage to one foe. 90% accuracy.	2	Lv. 1	Special skill
+Comet Hammer I	コメットハンマーI	Physical attack, 65 Earth damage to one foe. 95% accuracy.	3	Lv. 5	Inherit skill
+Innocent Pupil	無邪気な瞳	Increase accuracy and evasion by 1%.	Support skill
+De-digivolution
+
+De-digivolves Into	Punimon プニモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	SPD	CAM	DLC
+Gabumon ガブモン	7	75	20	20
+Goblimon ゴブリモン	7		40
+Veemon ブイモン	6		20	20	10%
+BlackGabumon ガブモン (黒)	6	80	30			☆
+Tsumemon ツメモン
+
+No. 009
+Type: Free　　　　　　　　　　　Attribute: Dark
+Equipment Slots: 0　　　　　　　　　Party Memory: 3
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Bubble	アワ	Magic attack, 30 Water damage to one foe. 90% accuracy.	2	Lv. 1	Special skill
+Destroy Cannon I	デストロイキャノンI	Physical attack, 65 Dark damage to one foe. 95% accuracy.	3	Lv. 5	Inherit skill
+Innocent Pupil	無邪気な瞳	Increase accuracy and evasion by 1%.	Support skill
+De-digivolution
+
+De-digivolves Into	Kuramon クラモン
+Digivolution Requirements
+
+Digivolves Into	Level	ATK	SPD	DLC
+Keramon ケラモン	9	20	20
+DemiDevimon ピコデビモン	8		30
+BlackAgumon アグモン (黒)	8	30		☆
+Tokomon トコモン
+
+No. 010
+Type: Free　　　　　　　　　　　Attribute: Neutral
+Equipment Slots: 0　　　　　　　　　Party Memory: 3
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Bubble	アワ	Magic attack, 30 Water damage to one foe. 90% accuracy.	2	Lv. 1	Special skill
+Heavy Strike I	ヘビーストライクI	Physical attack, 70 Neutral damage to one foe. 95% accuracy.	3	Lv. 5	Inherit skill
+Innocent Pupil	無邪気な瞳	Increase accuracy and evasion by 1%.	Support skill
+De-digivolution
+
+De-digivolves Into	Poyomon ポヨモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	INT	SPD	ABI	CAM
+Falcomon ファルコモン	9			30
+Hawkmon ホークモン	7			30		10%
+Lucemon ルーチェモン	30	80	130		80
+Patamon パタモン	7		20	20		10%
+Nyaromon ニャロモン
+
+No. 011
+Type: Free　　　　　　　　　　　Attribute: Light
+Equipment Slots: 0　　　　　　　　　Party Memory: 3
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Bubble	アワ	Magic attack, 30 Water damage to one foe. 90% accuracy.	2	Lv. 1	Special skill
+Saint Knuckle I	セイントナックルI	Physical attack, 65 Light damage to one foe. 95% accuracy.	3	Lv. 5	Inherit skill
+Innocent Pupil	無邪気な瞳	Increase accuracy and evasion by 1%.	Support skill
+De-digivolution
+
+De-digivolves Into	Punimon プニモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	DEF	INT	SPD	CAM
+Armadillomon アルマジモン	7	75		20			10%
+Salamon プロットモン	7		20		20		10%
+Terriermon テリアモン	8					30	10%
+Pagumon パグモン
+
+No. 012
+Type: Free　　　　　　　　　　　Attribute: Dark
+Equipment Slots: 0　　　　　　　　　Party Memory: 3
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Bubble	アワ	Magic attack, 30 Water damage to one foe. 90% accuracy.	2	Lv. 1	Special skill
+Nightmare I	ナイトメアI	Magic attack, 55 Dark damage to one foe. 95% accuracy.	3	Lv. 5	Inherit skill
+Innocent Pupil	無邪気な瞳	Increase accuracy and evasion by 1%.	Support skill
+De-digivolution
+
+De-digivolves Into	Kuramon クラモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	INT	SPD
+Gazimon ガジモン	9		15		20
+Impmon インプモン	7	20		30
+Lopmon ロップモン	8		15	20
+Pyocomon ピョコモン
+
+No. 013
+Type: Free　　　　　　　　　　　Attribute: Plant
+Equipment Slots: 0　　　　　　　　　Party Memory: 3
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Bubble	アワ	Magic attack, 30 Water damage to one foe. 90% accuracy.	2	Lv. 1	Special skill
+Crescent Leaf I	クレセントリーフI	Physical attack, 65 Plant damage to one foe. 95% accuracy.	3	Lv. 5	Inherit skill
+Innocent Pupil	無邪気な瞳	Increase accuracy and evasion by 1%.	Support skill
+De-digivolution
+
+De-digivolves Into	Bubbmon バブモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	DEF	INT	SPD	CAM
+Elecmon エレキモン	7	75	20			20
+Wormmon ワームモン	8			20			10%
+Piyomon ピヨモン	8				20	20	10%
+Pukamon プカモン
+
+No. 014
+Type: Free　　　　　　　　　　　Attribute: Water
+Equipment Slots: 0　　　　　　　　　Party Memory: 3
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Bubble	アワ	Magic attack, 30 Water damage to one foe. 90% accuracy.	2	Lv. 1	Special skill
+Hydro Water I	ハイドロウォーターI	Magic attack, 55 Water damage to one foe. 95% accuracy.	3	Lv. 5	Inherit skill
+Innocent Pupil	無邪気な瞳	Increase accuracy and evasion by 1%.	Support skill
+De-digivolution
+
+De-digivolves Into	Poyomon ポヨモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	DEF	INT	CAM
+Betamon ベタモン	8			40
+Gomamon ゴマモン	8	100			10%
+Otamamon オタマモン	7			20
+Syakomon シャコモン	7		15	20
+Motimon モチモン
+
+No. 015
+Type: Free　　　　　　　　　　　Attribute: Neutral
+Equipment Slots: 0　　　　　　　　　Party Memory: 3
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Bubble	アワ	Magic attack, 30 Water damage to one foe. 90% accuracy.	2	Lv. 1	Special skill
+Power Energy I	パワーエナジーI	Magic attack, 60 Neutral damage to one foe. 95% accuracy.	3	Lv. 5	Inherit skill
+Innocent Pupil	無邪気な瞳	Increase accuracy and evasion by 1%.	Support skill
+De-digivolution
+
+De-digivolves Into	Bubbmon バブモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	DEF	CAM
+Gotsumon ゴツモン	8		30
+Hagurumon ハグルモン	7	75	30
+Tentomon テントモン	9		20	10%
+Solarmon ソーラーモン	6	75	25
+Wanyamon ワニャモン
+
+No. 016
+Type: Free　　　　　　　　　　　Attribute: Wind
+Equipment Slots: 0　　　　　　　　　Party Memory: 3
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Bubble	アワ	Magic attack, 30 Water damage to one foe. 90% accuracy.	2	Lv. 1	Special skill
+Wind Crow I	ウィンドクロウI	Physical attack, 65 Wind damage to one foe. 95% accuracy.	3	Lv. 5	Inherit skill
+Innocent Pupil	無邪気な瞳	Increase accuracy and evasion by 1%.	Support skill
+De-digivolution
+
+De-digivolves Into	Botamon ボタモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	INT	SPD	CAM
+Dorumon ドルモン	8		20		30
+Gaomon ガオモン	9		20		20	10%
+Kudamon クダモン	8	20		20
+Rookie
+
+Child 「成長期」
+Agumon アグモン
+
+No. 017
+Type: Vaccine　　　　　　　　　　Attribute: Fire
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Baby Flame	ベビーフレイム	Physical attack, 70 Fire damage to one foe.	5	Lv. 1	Special skill
+Heavy Strike I	ヘビーストライクI	Physical attack, 70 Neutral damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Attack Charge	アタックチャージ	Increase the attack of one member by 10%.	6	Lv. 12	Inherit skill
+Dragon's Roar	ドラゴンズロア	Increase damage dealt from fire skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	450	SP	20
+ATK	68	INT	15
+DEF	45	SPD	37
+Level 99 Raw Stats
+
+HP	1,620	SP	98
+ATK	195	INT	93
+DEF	162	SPD	135
+De-digivolution
+
+De-digivolves Into	Koromon コロモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	CAM
+GeoGreymon ジオグレイモン	15	150	50
+Greymon グレイモン	16		55		50%
+Meramon メラモン	14		40
+Tyrannomon ティラノモン	14	150	40
+Sukamon スカモン	12	150		40
+BlackAgumon アグモン (黒)
+
+No. 018 ☆
+Type: Virus　　　　　　　　　　　Attribute: Fire
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Spitfire	スピットファイア	Physical attack, 35 Fire damage to all foes. 10% chance to increase own ATK by 10%.	5	Lv. 1	Special skill
+Volcano Napalm I	ヴォルケナパームI	Physical attack, 65 Fire damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Guard Charge	ガードチャージ	Increase the defense of one member by 10%.	6	Lv. 12	Inherit skill
+Dragon's Rage	竜の怒り	Increase ATK by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	440	SP	17
+ATK	61	INT	17
+DEF	50	SPD	36
+Level 99 Raw Stats
+
+HP	1,610	SP	95
+ATK	188	INT	95
+DEF	167	SPD	134
+De-digivolution
+
+De-digivolves Into	Tsumemon ツメモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	SPD	DLC
+Growlmon グラウモン	15		50		20
+Cyclonemon サイクロモン	14		30	40
+Tankmon タンクモン	14			55
+Tyrannomon ティラノモン	14	150	40
+BlueGreymon グレイモン (青)	16	150	50			☆
+Armadillomon アルマジモン
+
+No. 019
+Type: Free　　　　　　　　　　　Attribute: Earth
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Rolling Stone	ローリングストーン	Physical attack, 60 Earth damage to one foe. 10% chance to increase own DEF by 10%.	5	Lv. 1	Special skill
+Ground Rock I	グランドロックI	Magic attack, 55 Earth damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Shock	ショック	Physical attack, 40 Earth damage to one foe. Inflicts Stun status effect.	10	Lv. 12	Inherit skill
+Iron Wall Defense	鉄壁の護り	Increase DEF by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	530	SP	32
+ATK	23	INT	21
+DEF	48	SPD	33
+Level 99 Raw Stats
+
+HP	1,800	SP	139
+ATK	111	INT	109
+DEF	175	SPD	111
+De-digivolution
+
+De-digivolves Into	Nyaromon ニャロモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	DEF	ABI
+Ankylomon アンキロモン	15	150			40
+Cyclonemon サイクロモン	14			30	40
+GoldNumemon ゴールドヌメモン	18					5
+Tankmon タンクモン	14				55
+Geremon ゲレモン	12	130	25		40
+Impmon インプモン
+
+No. 020
+Type: Virus　　　　　　　　　　　Attribute: Dark
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Summon	サモン	Fixed damage of 100 to one foe. 30% chance to increase own INT by 10%.	5	Lv. 1	Special skill
+Nightmare I	ナイトメアI	Magic attack, 55 Dark damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Idol Bubble	アイドルバブル	Magic attack, 30 Water damage to one foe. Inflicts Sleep status effect.	10	Lv. 12	Inherit skill
+Clever Sense	巧みな知恵	Increase INT by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	140	SP	51
+ATK	44	INT	51
+DEF	21	SPD	44
+Level 99 Raw Stats
+
+HP	920	SP	178
+ATK	122	INT	178
+DEF	109	SPD	161
+De-digivolution
+
+De-digivolves Into	Pagumon パグモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	INT	CAM
+Bakemon バケモン	13	40		30
+Ogremon オーガモン	14		55
+Sorcermon ソーサリモン	16	40		40
+BlackGatomon ブラックテイルモン	16			40	25%
+Wizardmon ウィザーモン	14	35		55
+IceDevimon アイスデビモン	15		40	40
+Elecmon エレキモン
+
+No. 021
+Type: Data　　　　　　　　　　　Attribute: Electric
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Sparkling Thunder	スパークリングサンダー	Magic attack, 30 Thunder damage to one foe twice.	5	Lv. 1	Special skill
+Heaven's Thunder I	ヘブンズサンダーI	Magic attack, 55 Thunder damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Biribiri Net	ビリビリネット	Physical attack, 40 Thunder damage to one foe. Inflicts Paralyze status effect.	10	Lv. 12	Inherit skill
+Metal Empire	メタルエンパイア	Increase damage dealt from thunder skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	400	SP	40
+ATK	33	INT	30
+DEF	30	SPD	37
+Level 99 Raw Stats
+
+HP	1,470	SP	147
+ATK	131	INT	128
+DEF	128	SPD	144
+De-digivolution
+
+De-digivolves Into	Pyocomon ピョコモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	DEF	SPD	CAM	DLC
+Garurumon ガルルモン	15					50	25%
+Leomon レオモン	16			55
+Nanimon ナニモン	12			40	40
+Sukamon スカモン	12	150			40
+BlackGarurumon ガルルモン (黒)	15			35		50		☆
+Geremon ゲレモン	12	130	25		40
+Otamamon オタマモン
+
+No. 022
+Type: Virus　　　　　　　　　　　Attribute: Water
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Lullaby Bubble	ララバイバブル	Magic attack, 55 Water damage to one foe. 10% chance to inflict Sleep.	5	Lv. 1	Special skill
+Hydro Water I	ハイドロウォーターI	Magic attack, 55 Water damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Anti Sleep	アンチスリープ	Recover Sleep from one party member and restore some HP.	4	Lv. 12	Inherit skill
+Deep Sea Sleep	深海の眠り	When attacking, 10% chance to inflict Sleep status effect.	Support skill
+Level 1 Raw Stats
+
+HP	400	SP	47
+ATK	13	INT	50
+DEF	26	SPD	34
+Level 99 Raw Stats
+
+HP	1,470	SP	164
+ATK	91	INT	177
+DEF	124	SPD	122
+De-digivolution
+
+De-digivolves Into	Pukamon プカモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	DEF	INT
+Gekomon ゲコモン	14		40		40
+Numemon ヌメモン	12	150		40
+Seadramon シードラモン	14			30	40
+KaratsukiNumemon カラツキヌメモン	14	150		55
+Gaomon ガオモン
+
+No. 023
+Type: Data　　　　　　　　　　　Attribute: Neutral
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Double Backhand	ダブルバックハンド	Physical attack, 20 Neutral damage to all foes twice.	5	Lv. 1	Special skill
+Anti Stun	アンチスタン	Recover Stun from one party member and restore some HP.	4	Lv. 6	Inherit skill
+Agility Charge	アジリティチャージ	Increase the evasion of one battle member by 10%.	6	Lv. 12	Inherit skill
+Faint	フェイント	Increase evasion by 7%.	Support skill
+Level 1 Raw Stats
+
+HP	450	SP	25
+ATK	55	INT	27
+DEF	30	SPD	43
+Level 99 Raw Stats
+
+HP	1,620	SP	113
+ATK	182	INT	105
+DEF	118	SPD	160
+De-digivolution
+
+De-digivolves Into	Wanyamon ワニャモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	SPD	CAM
+Gargomon ガルゴモン	15	150			40
+Gaogamon ガオガモン	15				55
+Leomon レオモン	16		55
+Togemon トゲモン	16	300		30		25%
+Ogremon オーガモン	14		55
+Gazimon ガジモン
+
+No. 024
+Type: Virus　　　　　　　　　　　Attribute: Dark
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Paralyze Breath	パラライズブレス	Physical attack, 65 Thunder damage to one foe. 15% chance to inflict Paralyze.	5	Lv. 1	Special skill
+Destroy Cannon I	デストロイキャノンI	Physical attack, 65 Dark damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Panic Wisp	パニックウィスプ	Magic attack, 30 Fire damage to one foe. Inflicts Panic status effect.	10	Lv. 12	Inherit skill
+Nightmare Soldiers	ナイトメアソルジャーズ	Increase damage dealt from dark skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	390	SP	27
+ATK	60	INT	20
+DEF	20	SPD	44
+Level 99 Raw Stats
+
+HP	1,560	SP	115
+ATK	187	INT	98
+DEF	108	SPD	161
+De-digivolution
+
+De-digivolves Into	Pagumon パグモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	SPD	DLC
+Dorugamon ドルガモン	14		40		40
+Gaogamon ガオガモン	15				55
+Leomon レオモン	16		55
+Chrysalimon クリサリモン	16	150	40
+Nanimon ナニモン	12		40	40
+BlackGarurumon ガルルモン (黒)	15		35		50	☆
+Gabumon ガブモン
+
+No. 025
+Type: Data　　　　　　　　　　　Attribute: Fire
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Petit Fire	プチファイアー	Physical attack, 65 Fire damage to one foe. 10% chance to decrease target's DEF by 10%.	5	Lv. 1	Special skill
+Burst Flame I	バーストフレイムI	Magic attack, 55 Fire damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Anti Stun	アンチスタン	Recover Stun from one party member and restore some HP.	4	Lv. 12	Inherit skill
+Wild Pulsation	野生の鼓動	Increase SPD by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	450	SP	35
+ATK	45	INT	30
+DEF	32	SPD	38
+Level 99 Raw Stats
+
+HP	1,520	SP	142
+ATK	143	INT	128
+DEF	130	SPD	145
+De-digivolution
+
+De-digivolves Into	Tsunomon ツノモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	SPD	CAM
+Dorugamon ドルガモン	14		40		40
+Garurumon ガルルモン	15				50	25%
+Numemon ヌメモン	12	150		40
+Veedramon ブイドラモン	16		40		35
+Frigimon ユキダルモン	14	250	30
+BlackGabumon ガブモン (黒)
+
+No. 026 ☆
+Type: Virus　　　　　　　　　　　Attribute: Fire
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Little Horn	リトルホーン	Physical attack, 70 Neutral damage to one foe. 10% chance to decrease target's DEF by 10%.	5	Lv. 1	Special skill
+Ground Rock I	グランドロックI	Magic attack, 55 Earth damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Anti Panic	アンチパニック	Recover Panic from one party member and restore some HP.	4	Lv. 12	Inherit skill
+Menace	威嚇	When attacking, 10% chance to inflict Stun status effect.	Support skill
+Level 1 Raw Stats
+
+HP	420	SP	30
+ATK	50	INT	25
+DEF	40	SPD	38
+Level 99 Raw Stats
+
+HP	1,490	SP	137
+ATK	148	INT	123
+DEF	138	SPD	145
+De-digivolution
+
+De-digivolves Into	Tsunomon ツノモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	SPD	ABI	DLC
+BlackGarurumon ガルルモン (黒)	15		35	50		☆
+Vegimon ベジーモン	12	300
+Reppamon レッパモン	16			40	5
+Frigimon ユキダルモン	14	250	30
+Guilmon ギルモン
+
+No. 027
+Type: Virus　　　　　　　　　　　Attribute: Fire
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Rock Breaker	ロックブレイカー	Physical attack, 70 Earth damage to one foe.	5	Lv. 1	Special skill
+Volcano Napalm I	ヴォルケナパームI	Physical attack, 65 Fire damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Attack Charge	アタックチャージ	Increase the attack of one member by 10%.	6	Lv. 12	Inherit skill
+All Rounder	オールラウンダー	Increase ATK, DEF, INT and SPD by 5%.	Support skill
+Level 1 Raw Stats
+
+HP	470	SP	25
+ATK	70	INT	15
+DEF	30	SPD	43
+Level 99 Raw Stats
+
+HP	1,640	SP	113
+ATK	197	INT	93
+DEF	118	SPD	160
+De-digivolution
+
+De-digivolves Into	Koromon コロモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	SPD	DLC
+GeoGreymon ジオグレイモン	15	150	50
+Growlmon グラウモン	15		50	20
+Meramon メラモン	14		40
+Tyrannomon ティラノモン	14	150	40
+BlueGreymon グレイモン (青)	16	150	50		☆
+Kudamon クダモン
+
+No. 028
+Type: Vaccine　　　　　　　　　　Attribute: Light
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Zekkoushou	絶光衝	Magic attack, 65 Light damage to one foe.	5	Lv. 1	Special skill
+Saint Knuckle I	セイントナックルI	Physical attack, 65 Light damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Holy Light I	ホーリーライトI	Magic attack, 55 Light damage to one foe. 95% accuracy.	3	Lv. 12	Inherit skill
+Mystery Protection	神秘の護り	Reduce the chance of receiving status effects by 50%.	Support skill
+Level 1 Raw Stats
+
+HP	200	SP	65
+ATK	14	INT	54
+DEF	30	SPD	47
+Level 99 Raw Stats
+
+HP	980	SP	192
+ATK	92	INT	181
+DEF	118	SPD	164
+De-digivolution
+
+De-digivolves Into	Wanyamon ワニャモン
+Digivolution Requirements
+
+Digivolves Into	Level	INT	SPD	ABI
+Angemon エンジェモン	16	40		5
+GoldNumemon ゴールドヌメモン	18			5
+Peckmon ペックモン	14		50
+Reppamon レッパモン	16		40	5
+Keramon ケラモン
+
+No. 029
+Type: Free　　　　　　　　　　　Attribute: Dark
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Crazy Giggle	クレイジーギグル	Physical attack, 75 Dark damage to one foe.	5	Lv. 1	Special skill
+Destroy Cannon I	デストロイキャノンI	Physical attack, 65 Dark damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Guard Break	ガードブレイク	Reduce the defense of one enemy by 10%.	6	Lv. 12	Inherit skill
+Destruction God	破壊神	When attacking, 10% chance to inflict Death status effect.	Support skill
+Level 1 Raw Stats
+
+HP	450	SP	30
+ATK	60	INT	22
+DEF	25	SPD	43
+Level 99 Raw Stats
+
+HP	1,620	SP	118
+ATK	187	INT	100
+DEF	113	SPD	160
+De-digivolution
+
+De-digivolves Into	Tsumemon ツメモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	INT
+Bakemon バケモン	13		40		30
+Chrysalimon クリサリモン	16	150		40
+PlatinumSukamon プラチナスカモン	20
+Wizardmon ウィザーモン	14		35		55
+Gotsumon ゴツモン
+
+No. 030
+Type: Data　　　　　　　　　　　Attribute: Earth
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Angry Rock	アングリーロック	Physical attack, 65 Earth damage to one foe. 10% chance to increase own DEF by 10%.	5	Lv. 1	Special skill
+Guard Charge	ガードチャージ	Increase the defense of one member by 10%.	6	Lv. 6	Inherit skill
+Comet Hammer I	コメットハンマーI	Physical attack, 65 Earth damage to one foe. 95% accuracy.	3	Lv. 12	Inherit skill
+Animal Colosseum	アニマルコロシアム	Increase damage dealt from earth skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	300	SP	30
+ATK	40	INT	37
+DEF	55	SPD	33
+Level 99 Raw Stats
+
+HP	1,280	SP	128
+ATK	147	INT	144
+DEF	182	SPD	111
+De-digivolution
+
+De-digivolves Into	Motimon モチモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	DEF	INT
+Ankylomon アンキロモン	15	150	40
+Clockmon クロックモン	14			35
+Starmon スターモン	14	150	35
+Tankmon タンクモン	14		55
+Goblimon ゴブリモン
+
+No. 031
+Type: Virus　　　　　　　　　　　Attribute: Earth
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Goblin Strike	ゴブリストライク	Physical attack, 65 Fire damage to one foe. 10% chance to inflict Stun.	5	Lv. 1	Special skill
+Comet Hammer I	コメットハンマーI	Physical attack, 65 Earth damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Shock	ショック	Physical attack, 40 Earth damage to one foe. Inflicts Stun status effect.	10	Lv. 12	Inherit skill
+Vigorous Blow	渾身の一撃	Increase critical chance by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	470	SP	12
+ATK	52	INT	12
+DEF	52	SPD	35
+Level 99 Raw Stats
+
+HP	1,640	SP	90
+ATK	179	INT	90
+DEF	169	SPD	133
+De-digivolution
+
+De-digivolves Into	Tsunomon ツノモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	SPD	DLC
+Gaogamon ガオガモン	15				55
+Growlmon グラウモン	15		50		20
+Nanimon ナニモン	12		40	40
+Ogremon オーガモン	14		55
+BlueGreymon グレイモン (青)	16	150	50			☆
+Gomamon ゴマモン
+
+No. 032
+Type: Vaccine　　　　　　　　　　Attribute: Water
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Marching Fishes	マーチングフィッシーズ	Physical attack, 15 Water damage to all foes 1~3 times.	5	Lv. 1	Special skill
+Idol Bubble	アイドルバブル	Magic attack, 30 Water damage to one foe. Inflicts Sleep status effect.	10	Lv. 6	Inherit skill
+Anti Panic	アンチパニック	Recover Panic from one party member and restore some HP.	4	Lv. 12	Inherit skill
+Deep Savers	ディープセイバーズ	Increase damage dealt from water skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	530	SP	25
+ATK	40	INT	32
+DEF	40	SPD	35
+Level 99 Raw Stats
+
+HP	1,800	SP	113
+ATK	147	INT	130
+DEF	147	SPD	123
+De-digivolution
+
+De-digivolves Into	Pukamon プカモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	DEF	INT	CAM
+Ankylomon アンキロモン	15	150			40
+Ikkakumon イッカクモン	15	300					25%
+Sorcermon ソーサリモン	16		40			40
+Frigimon ユキダルモン	14	250		30
+Syakomon シャコモン
+
+No. 033
+Type: Virus　　　　　　　　　　　Attribute: Water
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Black Pearl	ブラックパール	Magic attack, 25 Water damage to all foes.	5	Lv. 1	Special skill
+Ice Archery I	アイスアーチェリI	Physical attack, 65 Water damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Anti Sleep	アンチスリープ	Recover Sleep from one party member and restore some HP.	4	Lv. 12	Inherit skill
+Deep Savers	ディープセイバーズ	Increase damage dealt from water skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	340	SP	42
+ATK	14	INT	49
+DEF	37	SPD	34
+Level 99 Raw Stats
+
+HP	1,410	SP	159
+ATK	92	INT	176
+DEF	135	SPD	122
+De-digivolution
+
+De-digivolves Into	Pukamon プカモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	DEF	INT	CAM
+Ikkakumon イッカクモン	15	300				25%
+KaratsukiNumemon カラツキヌメモン	14	150		55
+Gekomon ゲコモン	14		40		40
+Seadramon シードラモン	14			30	40
+Solarmon ソーラーモン
+
+No. 034
+Type: Vaccine　　　　　　　　　　Attribute: Light
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Shiny Ring	シャイニーリング	Physical attack, 70 Dark damage to one foe. Alwatys hits.	5	Lv. 1	Special skill
+Holy Light I	ホーリーライトI	Magic attack, 55 Light damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Shine Laser I	シャインレーザーI	Magic attack, 20 Light damage to all foes. 95% accuracy.	4	Lv. 12	Inherit skill
+Full Operating Machine	フル稼働マシーン	Full immunity to Sleep.	Support skill
+Level 1 Raw Stats
+
+HP	400	SP	35
+ATK	25	INT	27
+DEF	45	SPD	38
+Level 99 Raw Stats
+
+HP	1,670	SP	142
+ATK	113	INT	115
+DEF	172	SPD	116
+De-digivolution
+
+De-digivolves Into	Motimon モチモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	DEF	INT
+Clockmon クロックモン	14					35
+Geremon ゲレモン	12	130	25		40
+Starmon スターモン	14	150			35
+Meramon メラモン	14			40
+Terriermon テリアモン
+
+No. 035
+Type: Vaccine　　　　　　　　　　Attribute: Wind
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Terrier Tornado	プチツイスター	Magic attack, 20 Wind damage to all foes.	5	Lv. 1	Special skill
+Heal	ヒール	Restores a little HP for one party member.	4	Lv. 6	Inherit skill
+Speed Charge	スピードチャージ	Increase the speed of one member by 10%.	6	Lv. 12	Inherit skill
+Infallible	百発百中	Increase accuracy by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	250	SP	40
+ATK	35	INT	35
+DEF	26	SPD	49
+Level 99 Raw Stats
+
+HP	1,130	SP	147
+ATK	133	INT	133
+DEF	124	SPD	176
+De-digivolution
+
+De-digivolves Into	Nyaromon ニャロモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	INT	SPD	ABI	CAM	Item
+Gargomon ガルゴモン	15	150				40
+Ikkakumon イッカクモン	15	300						25%
+Gatomon テイルモン	16				40			25%
+Rapidmon (Armor)	50		100	120	120		20	50%	Digi-Egg of Destiny
+Tentomon テントモン
+
+No. 036
+Type: Vaccine　　　　　　　　　　Attribute: Plant
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Petit Thunder	プチサンダー	Magic attack, 60 Thunder damage to one foe.	5	Lv. 1	Special skill
+Nanomachine Break I	ナノマシンブレイクI	Physical attack, 65 Thunder damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Biribiri Net	ビリビリネット	Physical attack, 40 Thunder damage to one foe. Inflicts Paralyze status effect.	10	Lv. 12	Inherit skill
+Numb Flow	痺れ流し	Full immunity to Paralyze.	Support skill
+Level 1 Raw Stats
+
+HP	260	SP	30
+ATK	33	INT	40
+DEF	47	SPD	34
+Level 99 Raw Stats
+
+HP	1,240	SP	128
+ATK	140	INT	147
+DEF	174	SPD	112
+De-digivolution
+
+De-digivolves Into	Motimon モチモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	INT	SPD
+Kabuterimon カブテリモン	14			40	40
+Waspmon ワスプモン	14		40			40
+Kuwagamon クワガーモン	14		55
+Stingmon スティングモン	14		40			55
+Sunflowmon サンフラウモン	14	150			40
+ToyAgumon トイアグモン
+
+No. 037
+Type: Vaccine　　　　　　　　　　Attribute: Neutral
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Toy Flame	トイフレイム	Physical attack, 60 Fire damage to one foe. 10% chance to decrease target's INT by 10%.	5	Lv. 1	Special skill
+Power Energy I	パワーエナジーI	Magic attack, 60 Neutral damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Burst Flame I	バーストフレイムI	Magic attack, 55 Fire damage to one foe. 95% accuracy.	3	Lv. 12	Inherit skill
+Iron Wall Defense	鉄壁の護り	Increase DEF by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	480	SP	34
+ATK	28	INT	19
+DEF	49	SPD	32
+Level 99 Raw Stats
+
+HP	1,750	SP	141
+ATK	116	INT	107
+DEF	176	SPD	110
+De-digivolution
+
+De-digivolves Into	Koromon コロモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	INT	CAM
+Clockmon クロックモン	14				35
+Greymon グレイモン	16		55			50%
+Guardromon ガードロモン	14			55
+Sukamon スカモン	12	150		40
+Starmon スターモン	14	150		35
+Dorumon ドルモン
+
+No. 038
+Type: Data　　　　　　　　　　　Attribute: Neutral
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Metal Cannon	メタルキャノン	Physical attack, 70 Neutral damage to one foe. 30% chance to increase own DEF by 10%.	5	Lv. 1	Special skill
+Volcano Napalm I	ヴォルケナパームI	Physical attack, 65 Fire damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Critical Charge	クリティカルチャージ	Increase the critical chance of one battle member by 10%.	6	Lv. 12	Inherit skill
+Vigorous Blow	渾身の一撃	Increase critical chance by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	440	SP	21
+ATK	65	INT	17
+DEF	35	SPD	43
+Level 99 Raw Stats
+
+HP	1,610	SP	109
+ATK	192	INT	95
+DEF	123	SPD	160
+De-digivolution
+
+De-digivolves Into	Wanyamon ワニャモン
+Digivolution Requirements
+
+Digivolves Into	Level	ATK	DEF	SPD
+Cyclonemon サイクロモン	14	30	40
+Dorugamon ドルガモン	14	40		40
+Guardromon ガードロモン	14		55
+Waspmon ワスプモン	14	40		40
+Hagurumon ハグルモン
+
+No. 039
+Type: Virus　　　　　　　　　　　Attribute: Electric
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Cog Crusher	ダークネスギア	Physical attack, 70 Dark damage to one foe. Always hits.	5	Lv. 1	Special skill
+Nanomachine Break I	ナノマシンブレイクI	Physical attack, 65 Thunder damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Heaven's Thunder I	ヘブンズサンダーI	Magic attack, 55 Thunder damage to one foe. 95% accuracy.	3	Lv. 12	Inherit skill
+Metal Empire	メタルエンパイア	Increase damage dealt from thunder skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	460	SP	38
+ATK	22	INT	25
+DEF	47	SPD	32
+Level 99 Raw Stats
+
+HP	1,730	SP	145
+ATK	110	INT	113
+DEF	174	SPD	110
+De-digivolution
+
+De-digivolves Into	Motimon モチモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	DEF	INT	ABI
+Clockmon クロックモン	14			35
+GoldNumemon ゴールドヌメモン	18				5
+Guardromon ガードロモン	14		55
+Starmon スターモン	14	150	35
+PlatinumSukamon プラチナスカモン	20
+Patamon パタモン
+
+No. 040
+Type: Data　　　　　　　　　　　Attribute: Wind
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Air Shot	エアショット	Magic attack, 50 Wind damage to one foe. 10% chance to increase own SPD by 10%.	5	Lv. 1	Special skill
+Sonic Void I	ソニックヴォイドI	Magic attack, 55 Wind damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Mental Charge	メンタルチャージ	Increase the intellect of one member by 10%.	6	Lv. 12	Inherit skill
+Justice Genome	ジャスティスゲノム	Increase damage dealt from light skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	350	SP	40
+ATK	30	INT	43
+DEF	25	SPD	37
+Level 99 Raw Stats
+
+HP	1,420	SP	147
+ATK	128	INT	141
+DEF	123	SPD	144
+De-digivolution
+
+De-digivolves Into	Tokomon トコモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	INT	SPD	ABI	CAM
+Angemon エンジェモン	16			40		5
+Birdramon バードラモン	14	40		40	40
+Reppamon レッパモン	16				40	5
+Gatomon テイルモン	16			40			25%
+ExVeemon エクスブイモン	14		40		40		25%
+Huckmon ハックモン
+
+No. 041
+Type: Data　　　　　　　　　　　Attribute: Fire
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Fif Slash	フィフスラッシュ	Physical attack, 20 Earth damage to one foe five times. 80% accuracy.	5	Lv. 1	Special skill
+Heal	ヒール	Restores a little HP for one party member.	4	Lv. 6	Inherit skill
+Volcano Napalm III	ヴォルケナパームIII	Physical attack, 105 Fire damage to one foe. 95% accuracy.	9	Lv. 12	Inherit skill
+Battle Sense	バトルセンス	When HP is below 10%, ATK is increased by 50%.	Support skill
+Level 1 Raw Stats
+
+HP	450	SP	20
+ATK	55	INT	24
+DEF	50	SPD	36
+Level 99 Raw Stats
+
+HP	1,620	SP	98
+ATK	182	INT	102
+DEF	167	SPD	134
+De-digivolution
+
+De-digivolves Into	Koromon コロモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	SPD	ABI	CAM	Request
+Jesmon ジエスモン	60		130	120	80	80%	Great Challenge 6
+Greymon グレイモン	16		55			50%
+GeoGreymon ジオグレイモン	15	150	50
+PlatinumSukamon プラチナスカモン	20
+Palmon パルモン
+
+No. 042
+Type: Data　　　　　　　　　　　Attribute: Plant
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Poison Ivy	ポイズンアイビー	Physical attack, 65 Plant damage to one foe. 10% chance to inflict Poison.	5	Lv. 1	Special skill
+Crescent Leaf I	クレセントリーフI	Physical attack, 65 Plant damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Anti Poison	アンチポイズン	Recover Poison from one party member and restore some HP.	4	Lv. 12	Inherit skill
+Poison Thorn	猛毒のトゲ	When attacking, 10% chance to inflict Poison status effect.	Support skill
+Level 1 Raw Stats
+
+HP	510	SP	21
+ATK	50	INT	31
+DEF	37	SPD	35
+Level 99 Raw Stats
+
+HP	1,780	SP	109
+ATK	157	INT	129
+DEF	144	SPD	123
+De-digivolution
+
+De-digivolves Into	Tanemon タネモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	INT	CAM
+Kuwagamon クワガーモン	14		55
+Togemon トゲモン	16	300		30		25%
+Vegimon ベジーモン	12	300
+Sunflowmon サンフラウモン	14	150			40
+Woodmon ウッドモン	14	500
+DemiDevimon ピコデビモン
+
+No. 043
+Type: Virus　　　　　　　　　　　Attribute: Dark
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Pico Dart	ピコダーツ	Physical attack, 20 Dark damage to all foes, absorbs 5% into HP.	5	Lv. 1	Special skill
+Panic Wisp	パニックウィスプ	Magic attack, 30 Fire damage to one foe. Inflicts Panic status effect.	10	Lv. 6	Inherit skill
+Attack Break	アタックブレイク	Reduce the attack of one enemy by 10%.	6	Lv. 12	Inherit skill
+Nightmare Soldiers	ナイトメアソルジャーズ	Increase damage dealt from dark skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	210	SP	34
+ATK	40	INT	40
+DEF	27	SPD	48
+Level 99 Raw Stats
+
+HP	1,090	SP	141
+ATK	138	INT	138
+DEF	125	SPD	175
+De-digivolution
+
+De-digivolves Into	Tsumemon ツメモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	INT	SPD	ABI
+Bakemon バケモン	13		40		30
+Devimon デビモン	16			40			5
+Kyubimon キュウビモン	14		40		40	40
+Chrysalimon クリサリモン	16	150		40
+IceDevimon アイスデビモン	15			40	40
+Piyomon ピヨモン
+
+No. 044
+Type: Vaccine　　　　　　　　　　Attribute: Wind
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Magical Fire	マジカルファイアー	Magic attack, 55 Fire damage to one foe. 10% chance to increase own INT by 10%.	5	Lv. 1	Special skill
+Sonic Void I	ソニックヴォイドI	Magic attack, 55 Wind damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Mental Charge	メンタルチャージ	Increase the intellect of one member by 10%.	6	Lv. 12	Inherit skill
+Phoenix Feather	不死鳥の羽	Full immunity to Death.	Support skill
+Level 1 Raw Stats
+
+HP	300	SP	40
+ATK	36	INT	36
+DEF	30	SPD	38
+Level 99 Raw Stats
+
+HP	1,370	SP	147
+ATK	134	INT	134
+DEF	128	SPD	145
+De-digivolution
+
+De-digivolves Into	Pyocomon ピョコモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	DEF	INT	SPD
+Kabuterimon カブテリモン	14		40	40
+Aquilamon アクィラモン	14				55
+Birdramon バードラモン	14	40		40	40
+Kyubimon キュウビモン	14	40		40	40
+Falcomon ファルコモン
+
+No. 045
+Type: Vaccine　　　　　　　　　　Attribute: Wind
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Shuririnken	手裏裏剣	Physical attack, 35 Wind damage to all foes.	5	Lv. 1	Special skill
+Speed Charge	スピードチャージ	Increase the speed of one member by 10%.	6	Lv. 6	Inherit skill
+Anti Paralyze	アンチパラライズ	Recover Paralyze from one party member and restore some HP.	4	Lv. 12	Inherit skill
+Wind Guardians	ウィンドガーディアンズ	Increase damage dealt from wind skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	300	SP	40
+ATK	45	INT	30
+DEF	30	SPD	50
+Level 99 Raw Stats
+
+HP	1,180	SP	147
+ATK	143	INT	128
+DEF	128	SPD	177
+De-digivolution
+
+De-digivolves Into	Tokomon トコモン
+Digivolution Requirements
+
+Digivolves Into	Level	ATK	SPD	CAM
+Stingmon スティングモン	14	40	55
+ExVeemon エクスブイモン	14	40	40	25%
+Aquilamon アクィラモン	14		55
+Peckmon ペックモン	14		50
+Veemon ブイモン
+
+No. 046
+Type: Free　　　　　　　　　　　Attribute: Neutral
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+V-mon Head	ブイモンヘッド	Physical attack, 75 Neutral damage to one foe.	5	Lv. 1	Special skill
+Heavy Strike I	ヘビーストライクI	Physical attack, 70 Neutral damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Wind Crow I	ウィンドクロウI	Physical attack, 65 Wind damage to one foe. 95% accuracy.	3	Lv. 12	Inherit skill
+Dragon's Rage	竜の怒り	Increase ATK by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	460	SP	30
+ATK	67	INT	14
+DEF	30	SPD	43
+Level 99 Raw Stats
+
+HP	1,630	SP	118
+ATK	194	INT	92
+DEF	118	SPD	160
+De-digivolution
+
+De-digivolves Into	Tsunomon ツノモン
+Digivolution Requirements
+
+Digivolves Into	Level	ATK	DEF	SPD	ABI	CAM	Request	Item
+Flamedramon フレイドラモン	14	40		40		25%		Digi-Egg of Courage
+Magnamon マグナモン	60	120	145		40	50%	Great Challenge 1	Digi-Egg of Miracles
+Veedramon ブイドラモン	16	40		35
+ExVeemon エクスブイモン	14	40		40		25%
+Salamon プロットモン
+
+No. 047
+Type: Vaccine　　　　　　　　　　Attribute: Light
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Puppy Howling	パピーハウリング	Piercing attack, Light damage to one foe equals INT stat. 10% chance to inflict Paralyze.	10	Lv. 1	Special skill
+Holy Light I	ホーリーライトI	Magic attack, 55 Light damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Heal	ヒール	Restores a little HP for one party member.	4	Lv. 12	Inherit skill
+Holy Ring	ホーリーリング	Increase HP restoration by 20%.	Support skill
+Level 1 Raw Stats
+
+HP	150	SP	55
+ATK	20	INT	56
+DEF	25	SPD	39
+Level 99 Raw Stats
+
+HP	930	SP	182
+ATK	98	INT	183
+DEF	113	SPD	156
+De-digivolution
+
+De-digivolves Into	Nyaromon ニャロモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	INT	SPD	ABI	CAM
+Frigimon ユキダルモン	14	250		30
+Reppamon レッパモン	16					40	5
+Gatomon テイルモン	16				40			25%
+Veedramon ブイドラモン	16			40		35
+Sorcermon ソーサリモン	16		40		40
+Betamon ベタモン
+
+No. 048
+Type: Virus　　　　　　　　　　　Attribute: Water
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Dengeki Biririn	電撃ビリリン	Magic attack, 55 Thunder damage to one foe. 10% chance to inflict Paralyze.	5	Lv. 1	Special skill
+Ice Archery I	アイスアーチェリI	Physical attack, 65 Water damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Anti Paralyze	アンチパラライズ	Recover Paralyze from one party member and restore some HP.	4	Lv. 12	Inherit skill
+Mystery Scale	不思議なウロコ	Reduce the efficiency of received negative effects by 5%.	Support skill
+Level 1 Raw Stats
+
+HP	340	SP	43
+ATK	22	INT	50
+DEF	27	SPD	34
+Level 99 Raw Stats
+
+HP	1,410	SP	160
+ATK	100	INT	177
+DEF	125	SPD	122
+De-digivolution
+
+De-digivolves Into	Pukamon プカモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	DEF	INT
+Gekomon ゲコモン	14		40		40
+Numemon ヌメモン	12	150		40
+Seadramon シードラモン	14			30	40
+KaratsukiNumemon カラツキヌメモン	14	150		55
+Vegimon ベジーモン	12	300
+Hawkmon ホークモン
+
+No. 049
+Type: Free　　　　　　　　　　　Attribute: Wind
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Feather Slash	フェザースラッシュ	Piercing attack, Wind damage to one foe equals DEF stat.	10	Lv. 1	Special skill
+Wind Crow I	ウィンドクロウI	Physical attack, 65 Wind damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Sonic Void I	ソニックヴォイドI	Magic attack, 55 Wind damage to one foe. 95% accuracy.	3	Lv. 12	Inherit skill
+Wind Guardians	ウィンドガーディアンズ	Increase damage dealt from wind skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	250	SP	35
+ATK	50	INT	34
+DEF	30	SPD	51
+Level 99 Raw Stats
+
+HP	1,130	SP	142
+ATK	148	INT	132
+DEF	128	SPD	178
+De-digivolution
+
+De-digivolves Into	Tokomon トコモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	INT	SPD
+Meramon メラモン	14		40
+Aquilamon アクィラモン	14				55
+Birdramon バードラモン	14	40		40	40
+Peckmon ペックモン	14				50
+Lalamon ララモン
+
+No. 050
+Type: Data　　　　　　　　　　　Attribute: Plant
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Nuts Shoot	ナッツシュート	Physical attack, 15 Plant damage to all foes twice.	5	Lv. 1	Special skill
+Venom Trap	ベノムトラップ	Physical attack, 40 Plant damage to one foe. Inflicts Poison status effect.	10	Lv. 6	Inherit skill
+Anti Poison	アンチポイズン	Recover Poison from one party member and restore some HP.	4	Lv. 12	Inherit skill
+Flower Guard	フラワーガード	Full immunity to Poison.	Support skill
+Level 1 Raw Stats
+
+HP	470	SP	30
+ATK	34	INT	30
+DEF	34	SPD	35
+Level 99 Raw Stats
+
+HP	1,740	SP	118
+ATK	141	INT	128
+DEF	141	SPD	123
+De-digivolution
+
+De-digivolves Into	Tanemon タネモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	DEF	INT	CAM
+Sunflowmon サンフラウモン	14	150		40
+Togemon トゲモン	16	300	30		25%
+Vegimon ベジーモン	12	300
+Woodmon ウッドモン	14	500
+Lucemon ルーチェモン
+
+No. 051
+Type: Vaccine　　　　　　　　　　Attribute: Light
+Equipment Slots: 1　　　　　　　　　Party Memory: 14
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Grand Cross	グランドクロス	Piercing attack, Light damage to all foes equals INT stat.	30	Lv. 1	Special skill
+Revive	リバイブ	Revive one fallen party member with 50% HP.	30	Lv. 15	Inherit skill
+Holy Light III	ホーリーライトIII	Magic attack, 95 Light damage to one foe. 95% accuracy.	9	Lv. 25	Inherit skill
+Shine Laser II	シャインレーザーII	Magic attack, 35 Light damage to all foes. 95% accuracy.	7	Lv. 35	Inherit skill
+EX Aura	エクスオーラ	Restores HP for all party members.	25	Lv. 45	Inherit skill
+Justice Genome	ジャスティスゲノム	Increase damage dealt from light skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	700	SP	90
+ATK	20	INT	145
+DEF	55	SPD	75
+Level 99 Raw Stats
+
+HP	1,770	SP	207
+ATK	98	INT	272
+DEF	153	SPD	163
+De-digivolution
+
+De-digivolves Into	Tokomon トコモン
+Digivolution Requirements
+
+Digivolves Into	Level	ATK	INT	SPD	ABI
+Angemon エンジェモン	16		40		5
+Devimon デビモン	16	40			5
+Lucemon Chaos Mode ルーチェモンFM	55	180	240	180	80
+Renamon レナモン
+
+No. 052
+Type: Data　　　　　　　　　　　Attribute: Plant
+Equipment Slots: 1　　　　　　　　　Party Memory: 5
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Koyousetsu	狐葉楔	Magic attack, 25 Plant damage to all foes.	5	Lv. 1	Special skill
+Gaia Element I	ガイアエレメントI	Magic attack, 55 Plant damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Anti Panic	アンチパニック	Recover Panic from one party member and restore some HP.	4	Lv. 12	Inherit skill
+Clever Sense	巧みな知恵	Increase INT by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	400	SP	40
+ATK	40	INT	40
+DEF	25	SPD	40
+Level 99 Raw Stats
+
+HP	1,470	SP	147
+ATK	138	INT	138
+DEF	123	SPD	147
+De-digivolution
+
+De-digivolves Into	Tanemon タネモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	INT	SPD	CAM
+BlackGatomon ブラックテイルモン	16			40		25%
+Garurumon ガルルモン	15				50	25%
+Kyubimon キュウビモン	14		40	40	40
+Woodmon ウッドモン	14	500
+Lopmon ロップモン
+
+No. 053
+Type: Data　　　　　　　　　　　Attribute: Earth
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Blazing Ice	ブレイジングアイス	Magic attack, 60 Water damage to one foe.	5	Lv. 1	Special skill
+Ground Rock I	グランドロックI	Magic attack, 55 Earth damage to one foe. 95% accuracy.	3	Lv. 6	Inherit skill
+Mental Break	メンタルブレイク	Reduce the intellect of one enemy by 10%.	6	Lv. 12	Inherit skill
+Animal Colosseum	アニマルコロシアム	Increase damage dealt from earth skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	300	SP	30
+ATK	45	INT	45
+DEF	24	SPD	36
+Level 99 Raw Stats
+
+HP	1,280	SP	128
+ATK	162	INT	162
+DEF	112	SPD	134
+De-digivolution
+
+De-digivolves Into	Pagumon パグモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	INT	SPD	ABI	CAM
+Gargomon ガルゴモン	15	150				40
+Devimon デビモン	16			40			5
+BlackGatomon ブラックテイルモン	16				40			25%
+Wizardmon ウィザーモン	14		35		55
+Wormmon ワームモン
+
+No. 054
+Type: Free　　　　　　　　　　　Attribute: Plant
+Equipment Slots: 1　　　　　　　　　Party Memory: 4
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Nebaneba Net	ネバネバネット	Physical attack, 65 Plant damage to one foe. 30% chance to decrease target's SPD by 10%.	5	Lv. 1	Special skill
+Venom Trap	ベノムトラップ	Physical attack, 40 Plant damage to one foe. Inflicts Poison status effect.	10	Lv. 6	Inherit skill
+Speed Break	スピードブレイク	Reduce the speed of one enemy by 10%.	6	Lv. 12	Inherit skill
+Nature Spirits	ネイチャースピリッツ	Increase damage dealt from plant skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	270	SP	27
+ATK	39	INT	37
+DEF	48	SPD	32
+Level 99 Raw Stats
+
+HP	1,250	SP	125
+ATK	146	INT	144
+DEF	175	SPD	110
+De-digivolution
+
+De-digivolves Into	Pyocomon ピョコモン
+Digivolution Requirements
+
+Digivolves Into	Level	ATK	DEF	INT	SPD
+Waspmon ワスプモン	14	40			40
+Kabuterimon カブテリモン	14		40	40
+Kuwagamon クワガーモン	14	55
+Stingmon スティングモン	14	40			55
+IceDevimon アイスデビモン	15	40		40
+Champion
+
+Adult 「成熟期」
+IceDevimon アイスデビモン
+
+No. 055
+Type: Virus　　　　　　　　　　　Attribute: Water
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Frost Claw	フロストクロー	Piercing attack, Water damage to one foe equals DEF stat.	20	Lv. 1	Special skill
+Ice Archery II	アイスアーチェリII	Physical attack, 85 Water damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Spirit Drain	スピリットドレイン	Magic attack, 40 Neutral damage to one foe. Absorbs 10% into SP.	3	Lv. 18	Inherit skill
+Hell Crusher I	ヘルクラッシャーI	Magic attack, 20 Dark damage to all foes. 95% accuracy.	4	Lv. 25	Inherit skill
+Clear Mind	心頭滅却	Full immunity to Panic.	Support skill
+Level 1 Raw Stats
+
+HP	500	SP	45
+ATK	82	INT	60
+DEF	45	SPD	43
+Level 99 Raw Stats
+
+HP	1,480	SP	143
+ATK	199	INT	177
+DEF	133	SPD	141
+De-digivolution
+
+De-digivolves Into
+Impmon インプモン
+DemiDevimon ピコデビモン
+Wormmon ワームモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	DEF	INT	ABI
+Myotismon ヴァンデモン	30			70		90	10
+Cherrymon ジュレイモン	28	800			70
+LadyDevimon レディーデビモン	30		75			95	10
+Aquilamon アクィラモン
+
+No. 056
+Type: Free　　　　　　　　　　　Attribute: Wind
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Glide Horn	グライドホーン	Physical attack, 85 Wind damage to one foe. 15% chance to inflict Stun.	10	Lv. 1	Special skill
+Wind Crow II	ウィンドクロウII	Physical attack, 85 Wind damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Sonic Void II	ソニックヴォイドII	Magic attack, 75 Wind damage to one foe. 95% accuracy.	6	Lv. 18	Inherit skill
+Gale Storm I	ゲイルストームI	Physical attack, 30 Wind damage to all foes. 95% accuracy.	4	Lv. 25	Inherit skill
+Wind Guardians	ウィンドガーディアンズ	Increase damage dealt from wind skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	400	SP	55
+ATK	60	INT	40
+DEF	40	SPD	80
+Level 99 Raw Stats
+
+HP	1,280	SP	162
+ATK	158	INT	138
+DEF	138	SPD	207
+De-digivolution
+
+De-digivolves Into
+Piyomon ピヨモン
+Falcomon ファルコモン
+Hawkmon ホークモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	INT	SPD	CAM	Jogress
+AeroVeedramon エアロブイドラモン	30		75		95	25%
+Garudamon ガルダモン	30		75		75
+Silphymon シルフィーモン	30		60	75	75	100%	Gatomon at 100%
+Crowmon ヤタガラモン	30	75			90
+Ankylomon アンキロモン
+
+No. 057
+Type: Free　　　　　　　　　　　Attribute: Earth
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Tail Hammer	テイルハンマー	Physical attack, 85 Earth damage to one foe. 15% chance to inflict Stun.	10	Lv. 1	Special skill
+Ground Rock II	グランドロックII	Magic attack, 75 Earth damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Anti Stun	アンチスタン	Recover Stun from one party member and restore some HP.	4	Lv. 18	Inherit skill
+Earthquake I	アースクエイクI	Physical attack, 30 Earth damage to all foes. 95% accuracy.	4	Lv. 25	Inherit skill
+Iron Wall Defense	鉄壁の護り	Increase DEF by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	700	SP	45
+ATK	45	INT	35
+DEF	70	SPD	40
+Level 99 Raw Stats
+
+HP	1,970	SP	152
+ATK	133	INT	123
+DEF	197	SPD	118
+De-digivolution
+
+De-digivolves Into
+Armadillomon アルマジモン
+Gotsumon ゴツモン
+Gomamon ゴマモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	DEF	INT	SPD	ABI	CAM	Jogress
+MagnaAngemon ホーリーエンジェモン	30	80			80		10
+Meteormon インセキモン	26			110
+Shakkoumon シャッコウモン	30			75	65			100%	Angemon at 100%
+SkullGreymon スカルグレイモン	28		120	85		70
+Ikkakumon イッカクモン
+
+No. 058
+Type: Vaccine　　　　　　　　　　Attribute: Water
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Harpoon Vulcan	ハープーンバルカン	Physical attack, 90 Fire damage to one foe. Always hits.	10	Lv. 1	Special skill
+Ice Archery II	アイスアーチェリII	Physical attack, 85 Water damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Ocean Wave I	オーシャンウェーブI	Magic attack, 20 Water damage to all foes. 95% accuracy.	4	Lv. 18	Inherit skill
+Heal	ヒール	Restores a little HP for one party member.	4	Lv. 25	Inherit skill
+Deep Savers	ディープセイバーズ	Increase damage dealt from water skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	700	SP	40
+ATK	65	INT	45
+DEF	49	SPD	46
+Level 99 Raw Stats
+
+HP	1,970	SP	128
+ATK	172	INT	143
+DEF	156	SPD	134
+De-digivolution
+
+De-digivolves Into
+Gomamon ゴマモン
+Syakomon シャコモン
+Terriermon テリアモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	INT	SPD	CAM
+MachGaogamon マッハガオガモン	26		75			80
+Whamon ホエーモン	28	850		75	75
+Zudomon ズドモン	30	800	75				50%
+Wizardmon ウィザーモン
+
+No. 059
+Type: Data　　　　　　　　　　　Attribute: Dark
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Thunder Cloud	サンダークラウド	Magic attack, 75 Thunder damage to one foe. 10% chance to inflict Paralyze.	10	Lv. 1	Special skill
+Nightmare II	ナイトメアII	Magic attack, 75 Dark damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Hell Crusher I	ヘルクラッシャーI	Magic attack, 20 Dark damage to all foes. 95% accuracy.	4	Lv. 18	Inherit skill
+Sonic Void II	ソニックヴォイドII	Magic attack, 75 Wind damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Clever Sense	巧みな知恵	Increase INT by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	300	SP	75
+ATK	35	INT	80
+DEF	35	SPD	60
+Level 99 Raw Stats
+
+HP	1,080	SP	202
+ATK	113	INT	207
+DEF	123	SPD	177
+De-digivolution
+
+De-digivolves Into
+Impmon インプモン
+Keramon ケラモン
+Lopmon ロップモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	INT	ABI
+SkullMeramon デスメラモン	28	500		95
+Myotismon ヴァンデモン	30			70	90	10
+Wisemon ワイズモン	28		75		100
+Woodmon ウッドモン
+
+No. 060
+Type: Virus　　　　　　　　　　　Attribute: Plant
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Branch Drain	ブランチドレイン	Physical attack, 75 Plant damage to one foe, absorbs 20% into HP.	10	Lv. 1	Special skill
+Gaia Element II	ガイアエレメントII	Magic attack, 75 Plant damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Crescent Leaf II	クレセントリーフII	Physical attack, 85 Plant damage to one foe. 95% accuracy.	6	Lv. 18	Inherit skill
+Power Energy II	パワーエナジーII	Magic attack, 80 Neutral damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Strange Dance	奇怪な踊り	When attacking, 10% chance to inflict Panic status effect.	Support skill
+Level 1 Raw Stats
+
+HP	850	SP	30
+ATK	56	INT	40
+DEF	50	SPD	44
+Level 99 Raw Stats
+
+HP	2,120	SP	118
+ATK	163	INT	138
+DEF	157	SPD	132
+De-digivolution
+
+De-digivolves Into
+Palmon パルモン
+Lalamon ララモン
+Renamon レナモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	DEF	INT	SPD
+Cherrymon	28	800			70
+Pumpkinmon	26	850		60		60
+Taomon	30		60			75	60
+ExVeemon エクスブイモン
+
+No. 061
+Type: Free　　　　　　　　　　　Attribute: Neutral
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+X-Laser	エクスレイザー	Physical attack, 95 Light damage to one foe.	10	Lv. 1	Special skill
+Heavy Strike II	ヘビーストライクII	Physical attack, 90 Neutral damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Mach Rush II	マッハラッシュII	Physical attack, 50 Neutral damage to all foes. 95% accuracy.	7	Lv. 18	Inherit skill
+Holy Light II	ホーリーライトII	Magic attack, 75 Light damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Dragon's Rage	竜の怒り	Increase ATK by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	500	SP	65
+ATK	55	INT	45
+DEF	45	SPD	65
+Level 99 Raw Stats
+
+HP	1,570	SP	172
+ATK	153	INT	143
+DEF	143	SPD	172
+De-digivolution
+
+De-digivolves Into
+Patamon パタモン
+Falcomon ファルコモン
+Veemon ブイモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	DEF	INT	SPD	ABI	CAM	Jogress
+MagnaAngemon ホーリーエンジェモン	30		80			80		10
+Paildramon パイルドラモン	30			90	60		75		100%	Stingmon at 100%
+RizeGreymon ライズグレイモン	30	350		100			75		50%
+Angemon エンジェモン
+
+No. 062
+Type: Vaccine　　　　　　　　　　Attribute: Light
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Heaven's Knuckle	ヘブンズナックル	Physical attack, 80 Light damage to one foe. 10% chance to increase own ATK & INT by 10%.	10	Lv. 1	Special skill
+Holy Light II	ホーリーライトII	Magic attack, 75 Light damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+EX Heal	エクスヒール	Restores HP for one party member.	8	Lv. 18	Inherit skill
+Shine Laser I	シャインレーザーI	Magic attack, 20 Light damage to all foes. 95% accuracy.	4	Lv. 25	Inherit skill
+Justice Genome	ジャスティスゲノム	Increase damage dealt from light skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	450	SP	45
+ATK	70	INT	70
+DEF	45	SPD	50
+Level 99 Raw Stats
+
+HP	1,430	SP	143
+ATK	187	INT	187
+DEF	133	SPD	148
+De-digivolution
+
+De-digivolves Into
+Kudamon クダモン
+Patamon パタモン
+Lucemon ルーチェモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	DEF	INT	SPD	ABI	CAM	Jogress
+Garudamon ガルダモン	30		75			75
+MagnaAngemon ホーリーエンジェモン	30	80			80		10
+Shakkoumon シャッコウモン	30			75	65			100%	Ankylomon at 100%
+Ogremon オーガモン
+
+No. 063
+Type: Virus　　　　　　　　　　　Attribute: Earth
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Tyrant Fist	覇王拳	Physical attack, 90 Dark damage to one foe.	10	Lv. 1	Special skill
+Comet Hammer II	コメットハンマーII	Physical attack, 85 Earth damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Critical Charge	クリティカルチャージ	Increase the critical chance of one battle member by 10%.	6	Lv. 18	Inherit skill
+Destroy Cannon II	デストロイキャノンII	Physical attack, 85 Dark damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Vigorous Blow	渾身の一撃	Increase critical chance by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	650	SP	25
+ATK	92	INT	25
+DEF	60	SPD	48
+Level 99 Raw Stats
+
+HP	1,820	SP	103
+ATK	219	INT	103
+DEF	177	SPD	146
+De-digivolution
+
+De-digivolves Into
+Impmon インプモン
+Gaomon ガオモン
+Goblimon ゴブリモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	SPD	CAM
+SkullMeramon デスメラモン	28	500	95
+Digitamamon デジタマモン	30	700		75
+WereGarurumon ワーガルルモン	28		90		85	50%
+Guardromon ガードロモン
+
+No. 064
+Type: Virus　　　　　　　　　　　Attribute: Electric
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Destruction Grenade	Dグレネード	Physical attack, 40 Fire damage to all foes. Always hits.	10	Lv. 1	Special skill
+Nanomachine Break II	ナノマシンブレイクII	Physical attack, 85 Thunder damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Guard Charge	ガードチャージ	Increase the defense of one member by 10%.	6	Lv. 18	Inherit skill
+Heaven's Thunder II	ヘブンズサンダーII	Magic attack, 75 Thunder damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Metal Empire	メタルエンパイア	Increase damage dealt from thunder skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	500	SP	35
+ATK	55	INT	50
+DEF	75	SPD	40
+Level 99 Raw Stats
+
+HP	1,480	SP	133
+ATK	162	INT	157
+DEF	202	SPD	118
+De-digivolution
+
+De-digivolves Into
+ToyAgumon トイアグモン
+Dorumon ドルモン
+Hagurumon ハグルモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	DEF	INT
+Andromon アンドロモン	28			75	75	75
+GrapLeomon グラップレオモン	26	400		95
+MetalMamemon メタルマメモン	26				80	65
+Datamon ナノモン	28		60			85
+Gaogamon ガオガモン
+
+No. 065
+Type: Data　　　　　　　　　　　Attribute: Wind
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Spiral Blow	スパイラルブロー	Physical attack, 90 Wind damage to one foe.	10	Lv. 1	Special skill
+Sonic Void II	ソニックヴォイドII	Magic attack, 75 Wind damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Gale Storm I	ゲイルストームI	Physical attack, 30 Wind damage to all foes. 95% accuracy.	4	Lv. 18	Inherit skill
+Ice Archery II	アイスアーチェリII	Physical attack, 85 Water damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Faint	フェイント	Increase evasion by 7%.	Support skill
+Level 1 Raw Stats
+
+HP	300	SP	55
+ATK	60	INT	50
+DEF	45	SPD	75
+Level 99 Raw Stats
+
+HP	1,180	SP	162
+ATK	158	INT	148
+DEF	143	SPD	202
+De-digivolution
+
+De-digivolves Into
+Gaomon ガオモン
+Gazimon ガジモン
+Goblimon ゴブリモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	SPD	CAM
+GrapLeomon グラップレオモン	26	400	95
+MachGaogamon マッハガオガモン	26		75	80
+WereGarurumon ワーガルルモン	28		90	85	50%
+Kabuterimon カブテリモン
+
+No. 066
+Type: Vaccine　　　　　　　　　　Attribute: Plant
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Mega Blaster	メガブラスター	Magic attack, 80 Thunder damage to one foe.	10	Lv. 1	Special skill
+Crescent Leaf II	クレセントリーフII	Physical attack, 85 Plant damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Mental Charge	メンタルチャージ	Increase the intellect of one member by 10%.	6	Lv. 18	Inherit skill
+Heaven's Thunder II	ヘブンズサンダーII	Magic attack, 75 Thunder damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Numb Flow	痺れ流し	Full immunity to Paralyze.	Support skill
+Level 1 Raw Stats
+
+HP	400	SP	40
+ATK	55	INT	63
+DEF	65	SPD	42
+Level 99 Raw Stats
+
+HP	1,380	SP	138
+ATK	162	INT	170
+DEF	192	SPD	120
+De-digivolution
+
+De-digivolves Into
+Tentomon テントモン
+Piyomon ピヨモン
+Wormmon ワームモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	DEF	INT
+MegaKabuterimon アトラーカブテリモン	28	400		95
+Cherrymon ジュレイモン	28	800		70
+Lilamon ライラモン	30		75		75
+KaratsukiNumemon カラツキヌメモン
+
+No. 067
+Type: Virus　　　　　　　　　　　Attribute: Water
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Ripen Poop	熟成ウンチ	Physical attack, 75 Earth damage to one foe. 30% chance to decrease target's INT by 10%.	10	Lv. 1	Special skill
+Idol Bubble	アイドルバブル	Magic attack, 30 Water damage to one foe. Inflicts Sleep status effect.	10	Lv. 10	Inherit skill
+Guard Break	ガードブレイク	Reduce the defense of one enemy by 10%.	6	Lv. 18	Inherit skill
+Guard Charge	ガードチャージ	Increase the defense of one member by 10%.	6	Lv. 25	Inherit skill
+Pickup	ものひろい	Increase the item drop rate from enemies.	Support skill
+Level 1 Raw Stats
+
+HP	650	SP	50
+ATK	35	INT	30
+DEF	85	SPD	40
+Level 99 Raw Stats
+
+HP	1,920	SP	157
+ATK	123	INT	118
+DEF	212	SPD	118
+De-digivolution
+
+De-digivolves Into
+Otamamon オタマモン
+Syakomon シャコモン
+Betamon ベタモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	INT
+BlackKingNumemon ブラックキングヌメモン	32
+MegaSeadramon メガシードラモン	30	400	70	70
+ShogunGekomon トノサマゲコモン	26	900
+Gargomon ガルゴモン
+
+No. 068
+Type: Vaccine　　　　　　　　　　Attribute: Electric
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Dumdum Upper	ダムダムアッパー	Physical attack, 90 Neutral damage to one foe. 10% chance to inflict Stun.	10	Lv. 1	Special skill
+Biribiri Net	ビリビリネット	Physical attack, 40 Thunder damage to one foe. Inflicts Paralyze status effect.	10	Lv. 10	Inherit skill
+Thunder Fall I	サンダーフォールI	Physical attack, 30 Thunder damage to all foes. 95% accuracy.	4	Lv. 18	Inherit skill
+Mach Rush I	マッハラッシュI	Physical attack, 35 Neutral damage to all foes. 95% accuracy.	4	Lv. 25	Inherit skill
+Infallible	百発百中	Increase accuracy by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	500	SP	50
+ATK	60	INT	40
+DEF	50	SPD	55
+Level 99 Raw Stats
+
+HP	1,570	SP	157
+ATK	158	INT	138
+DEF	148	SPD	162
+De-digivolution
+
+De-digivolves Into
+Gaomon ガオモン
+Terriermon テリアモン
+Lopmon ロップモン
+Digivolution Requirements
+
+Digivolves Into	Level	ATK	INT	SPD	CAM
+WarGrowlmon メガログラウモン	30	105		75
+Antylamon (Data) アンティラモン	28	65	75	85
+Rapidmon ラピッドモン	28	75		75	50%
+Garurumon ガルルモン
+
+No. 069
+Type: Vaccine　　　　　　　　　　Attribute: Fire
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Fox Fire	フォックスファイアー	Physical attack, 85 Fire damage to one foe. 10% chance to Increase own SPD by 10%.	10	Lv. 1	Special skill
+Speed Charge	スピードチャージ	Increase the speed of one member by 10%.	6	Lv. 10	Inherit skill
+Ground Rock II	グランドロックII	Magic attack, 75 Earth damage to one foe. 95% accuracy.	6	Lv. 18	Inherit skill
+Escape Dash	とんずらダッシュ	Flee from a battle.	0	Lv. 25	Inherit skill
+Wild Pulsation	野生の鼓動	Increase SPD by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	450	SP	55
+ATK	50	INT	45
+DEF	45	SPD	75
+Level 99 Raw Stats
+
+HP	1,330	SP	162
+ATK	148	INT	143
+DEF	143	SPD	202
+De-digivolution
+
+De-digivolves Into
+Elecmon エレキモン
+Gabumon ガブモン
+Renamon レナモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	SPD	CAM
+DoruGreymon ドルグレモン	30	400	95	75
+IceLeomon パンジャモン	28	350	75		75
+WereGarurumon ワーガルルモン	28		90		85	50%
+Zudomon ズドモン	30	800	75			50%
+BlackGarurumon ガルルモン (黒)
+
+No. 070 ☆
+Type: Virus　　　　　　　　　　　Attribute: Fire
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Freeze Fang	フリーズファング	Physical attack, 85 Water damage to one foe. 10% chance to Increase own SPD by 10%.	10	Lv. 1	Special skill
+Speed Charge	スピードチャージ	Increase the speed of one member by 10%.	6	Lv. 10	Inherit skill
+Ground Rock II	グランドロックII	Magic attack, 75 Earth damage to one foe. 95% accuracy.	6	Lv. 18	Inherit skill
+Agility Charge	アジリティチャージ	Increase the evasion of one battle member by 10%.	6	Lv. 25	Inherit skill
+Menace	威嚇	When attacking, 10% chance to inflict Stun status effect.	Support skill
+Level 1 Raw Stats
+
+HP	450	SP	55
+ATK	60	INT	30
+DEF	55	SPD	70
+Level 99 Raw Stats
+
+HP	1,330	SP	162
+ATK	158	INT	128
+DEF	153	SPD	197
+De-digivolution
+
+De-digivolves Into
+BlackGabumon ガブモン (黒)
+Elecmon エレキモン
+Gazimon ガジモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	INT	SPD	DLC
+BlackWereGarurumon ワーガルルモン (黒)	28	400	90		70	☆
+BlueMeramon ブルーメラモン	28	400	80	70
+MachGaogamon マッハガオガモン	26		75		80
+Kyubimon キュウビモン
+
+No. 071
+Type: Data　　　　　　　　　　　Attribute: Fire
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Will-o'-Wisp	鬼火玉	Magic attack, 30 Fire damage to all foes.	10	Lv. 1	Special skill
+Burst Flame II	バーストフレイムII	Magic attack, 75 Fire damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Panic Wisp	パニックウィスプ	Magic attack, 30 Fire damage to one foe. Inflicts Panic status effect.	10	Lv. 18	Inherit skill
+Mental Charge	メンタルチャージ	Increase the intellect of one member by 10%.	6	Lv. 25	Inherit skill
+Clever Sense	巧みな知恵	Increase INT by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	350	SP	75
+ATK	20	INT	75
+DEF	40	SPD	70
+Level 99 Raw Stats
+
+HP	1,130	SP	202
+ATK	98	INT	202
+DEF	128	SPD	187
+De-digivolution
+
+De-digivolves Into
+DemiDevimon ピコデビモン
+Piyomon ピヨモン
+Renamon レナモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	INT	SPD	ABI
+LadyDevimon レディーデビモン	30		75		95		10
+Monzaemon もんざえモン	26	600		60
+Taomon タオモン	30		60		75	60
+Growlmon グラウモン
+
+No. 072
+Type: Virus　　　　　　　　　　　Attribute: Fire
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Exhaust Flame	エキゾーストフレイム	Physical attack, 85 Fire damage to one foe. 10% chance to increase own ATK by 10%.	10	Lv. 1	Special skill
+Volcano Napalm II	ヴォルケナパームII	Physical attack, 85 Fire damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Comet Hammer II	コメットハンマーII	Physical attack, 85 Earth damage to one foe. 95% accuracy.	6	Lv. 18	Inherit skill
+Chain Plus	チェインプラス	Increase the combo chance for one member by 50%.	4	Lv. 25	Inherit skill
+All Rounder	オールラウンダー	Increase ATK, DEF, INT and SPD by 5%.	Support skill
+Level 1 Raw Stats
+
+HP	600	SP	40
+ATK	80	INT	30
+DEF	55	SPD	60
+Level 99 Raw Stats
+
+HP	1,770	SP	118
+ATK	207	INT	108
+DEF	172	SPD	158
+De-digivolution
+
+De-digivolves Into
+BlackAgumon アグモン (黒)
+Guilmon ギルモン
+Goblimon ゴブリモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	SPD	CAM
+Gigadramon ギガドラモン	26	800	75	95
+WarGrowlmon メガログラウモン	30		105		75
+MetalGreymon メタルグレイモン	30	350	100			50%
+MetalTyrannomon メタルティラノモン	28		75	95
+Chrysalimon クリサリモン
+
+No. 073
+Type: Free　　　　　　　　　　　Attribute: Dark
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Data Crusher	データクラッシャー	Physical attack, 90 Dark damage to one foe. 5% chance to inflict Death.	10	Lv. 1	Special skill
+Destroy Cannon II	デストロイキャノンII	Physical attack, 85 Dark damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Nanomachine Break II	ナノマシンブレイクII	Physical attack, 85 Thunder damage to one foe. 95% accuracy.	6	Lv. 18	Inherit skill
+Guard Break	ガードブレイク	Reduce the defense of one enemy by 10%.	6	Lv. 25	Inherit skill
+Destruction God	破壊神	When attacking, 10% chance to inflict Death status effect.	Support skill
+Level 1 Raw Stats
+
+HP	700	SP	40
+ATK	90	INT	25
+DEF	35	SPD	55
+Level 99 Raw Stats
+
+HP	1,870	SP	128
+ATK	217	INT	103
+DEF	123	SPD	172
+De-digivolution
+
+De-digivolves Into
+Gazimon ガジモン
+Keramon ケラモン
+DemiDevimon ピコデビモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	INT	SPD
+Cyberdramon サイバードラモン	28	400		75		75
+Infermon インフェルモン	30			95		80
+Taomon タオモン	30		60		75	60
+Greymon グレイモン
+
+No. 074
+Type: Vaccine　　　　　　　　　　Attribute: Fire
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Mega Flame	メガフレイム	Physical attack, 95 Fire damage to one foe.	10	Lv. 1	Special skill
+Volcano Napalm II	ヴォルケナパームII	Physical attack, 85 Fire damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Heavy Strike II	ヘビーストライクII	Physical attack, 90 Neutral damage to one foe. 95% accuracy.	6	Lv. 18	Inherit skill
+Accel Boost	アクセルブースト	Double your damage output in the next turn.	6	Lv. 25	Inherit skill
+Dragon's Roar	ドラゴンズロア	Increase damage dealt from fire skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	650	SP	35
+ATK	85	INT	25
+DEF	60	SPD	55
+Level 99 Raw Stats
+
+HP	1,820	SP	113
+ATK	212	INT	103
+DEF	177	SPD	153
+De-digivolution
+
+De-digivolves Into
+Agumon アグモン
+ToyAgumon トイアグモン
+Huckmon ハックモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	SPD	CAM	DLC
+MetalGreymon メタルグレイモン	30	350	100			50%
+BlueMetalGreymon メタルグレイモン (青)	30	450	110				☆
+Megadramon メガドラモン	26	400	95		75
+SkullGreymon スカルグレイモン	28		120	85	70
+BlueGreymon グレイモン (青)
+
+No. 075 ☆
+Type: Virus　　　　　　　　　　　Attribute: Fire
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Bit Fire	ビットファイアー	Physical attack, 30 Fire damage to one foe thrice.	10	Lv. 1	Special skill
+Volcano Napalm II	ヴォルケナパームII	Physical attack, 85 Fire damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Meteor Fall I	メテオフォールI	Physical attack, 30 Fire damage to all foes. 95% accuracy.	4	Lv. 18	Inherit skill
+Hit Charge	ヒットチャージ	Increase the accuracy of one battle member by 10%.	6	Lv. 25	Inherit skill
+Dragon's Rage	竜の怒り	Increase ATK by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	700	SP	35
+ATK	90	INT	20
+DEF	60	SPD	50
+Level 99 Raw Stats
+
+HP	1,870	SP	113
+ATK	217	INT	98
+DEF	177	SPD	148
+De-digivolution
+
+De-digivolves Into
+BlackAgumon アグモン (黒)
+Guilmon ギルモン
+Goblimon ゴブリモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	DLC
+BlueMetalGreymon メタルグレイモン (青)	30	450	110		☆
+Knightmon ナイトモン	30		75	75
+DoruGreymon ドルグレモン	30	400	95	75
+Clockmon クロックモン
+
+No. 076
+Type: Data　　　　　　　　　　　Attribute: Electric
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Chrono Breaker	クロノブレーカー	Deal 150 fixed damage to one enemy. 30% chance to decrease target's SPD by 10%.	10	Lv. 1	Special skill
+Heaven's Thunder II	ヘブンズサンダーII	Magic attack, 75 Thunder damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Heal	ヒール	Restores a little HP for one party member.	4	Lv. 18	Inherit skill
+Idol Bubble	アイドルバブル	Magic attack, 30 Water damage to one foe. Inflicts Sleep status effect.	10	Lv. 25	Inherit skill
+Metal Empire	メタルエンパイア	Increase damage dealt from thunder skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	500	SP	60
+ATK	25	INT	70
+DEF	52	SPD	48
+Level 99 Raw Stats
+
+HP	1,570	SP	177
+ATK	103	INT	197
+DEF	150	SPD	136
+De-digivolution
+
+De-digivolves Into
+Gotsumon ゴツモン
+ToyAgumon トイアグモン
+Hagurumon ハグルモン
+Solarmon ソーラーモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	DEF	INT
+Andromon アンドロモン	28		75	75	75
+Knightmon ナイトモン	30		75	75
+Datamon ナノモン	28	60			85
+Wisemon ワイズモン	28	75			100
+Kuwagamon クワガーモン
+
+No. 077
+Type: Virus　　　　　　　　　　　Attribute: Plant
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Scissor Arms	シザーアームズ	Piercing attack, Neutral damage to one foe equals DEF stat.	20	Lv. 1	Special skill
+Crescent Leaf II	クレセントリーフII	Physical attack, 85 Plant damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Destroy Cannon II	デストロイキャノンII	Physical attack, 85 Dark damage to one foe. 95% accuracy.	6	Lv. 18	Inherit skill
+Gale Storm I	ゲイルストームI	Physical attack, 30 Wind damage to all foes. 95% accuracy.	4	Lv. 25	Inherit skill
+Nature Spirits	ネイチャースピリッツ	Increase damage dealt from plant skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	600	SP	30
+ATK	90	INT	20
+DEF	55	SPD	50
+Level 99 Raw Stats
+
+HP	1,770	SP	108
+ATK	217	INT	98
+DEF	172	SPD	148
+De-digivolution
+
+De-digivolves Into
+Tentomon テントモン
+Palmon パルモン
+Wormmon ワームモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	SPD
+Cherrymon ジュレイモン	28	800		70
+Okuwamon オオクワモン	26		95	90
+CannonBeemon キャノンビーモン	28			75	75
+Gekomon ゲコモン
+
+No. 078
+Type: Virus　　　　　　　　　　　Attribute: Water
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Crash Symphony	クラッシュシンフォニー	Piercing attack, Neutral damage to one foe equals INT stat.	20	Lv. 1	Special skill
+Hydro Water II	ハイドロウォーターII	Magic attack, 75 Water damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Attack Break	アタックブレイク	Reduce the attack of one enemy by 10%.	6	Lv. 18	Inherit skill
+Anti Sleep	アンチスリープ	Recover Sleep from one party member and restore some HP.	4	Lv. 25	Inherit skill
+Deep Sea Sleep	深海の眠り	When attacking, 10% chance to inflict Sleep status effect.	Support skill
+Level 1 Raw Stats
+
+HP	600	SP	65
+ATK	29	INT	65
+DEF	40	SPD	46
+Level 99 Raw Stats
+
+HP	1,670	SP	182
+ATK	107	INT	192
+DEF	138	SPD	134
+De-digivolution
+
+De-digivolves Into
+Otamamon オタマモン
+Syakomon シャコモン
+Betamon ベタモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	DEF	INT
+MegaSeadramon メガシードラモン	30	400	70		70
+ShogunGekomon トノサマゲコモン	26	900
+Whamon ホエーモン	28	850		75	75
+Geremon ゲレモン
+
+No. 079
+Type: Virus　　　　　　　　　　　Attribute: Electric
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Hyper Smell	ハイパースメル	Physical attack, 70 Earth damage to one foe. 15% chance to inflict Panic & Paralyze.	10	Lv. 1	Special skill
+Venom Trap	ベノムトラップ	Physical attack, 40 Plant damage to one foe. Inflicts Poison status effect.	10	Lv. 10	Inherit skill
+Guard Charge	ガードチャージ	Increase the defense of one member by 10%.	6	Lv. 18	Inherit skill
+Nanomachine Break II	ナノマシンブレイクII	Physical attack, 85 Thunder damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Runners are Winners (Idiom)	逃げるが勝ち	Success in escapes becomes easier.	Support skill
+Level 1 Raw Stats
+
+HP	750	SP	46
+ATK	60	INT	20
+DEF	65	SPD	39
+Level 99 Raw Stats
+
+HP	2,020	SP	153
+ATK	148	INT	108
+DEF	192	SPD	117
+De-digivolution
+
+De-digivolves Into
+Armadillomon アルマジモン
+Elecmon エレキモン
+Solarmon ソーラーモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	DEF	INT	SPD
+Etemon エテモン	26	75		75		65
+SuperStarmon スーパースターモン	28	70	70	80
+MetalMamemon メタルマメモン	26			80	65
+GoldNumemon ゴールドヌメモン
+
+No. 080
+Type: Virus　　　　　　　　　　　Attribute: Light
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Gold-Durian Rush	ゴルドリアンラッシュ	Physical attack, 10 Light damage to all foes twice. 1% chance to inflict Death.	10	Lv. 1	Special skill
+Anti Dot	アンチドット	Recover Dot from one party member and restore some HP.	4	Lv. 10	Inherit skill
+Revive	リバイブ	Revive one fallen party member with 50% HP.	30	Lv. 18	Inherit skill
+Texture Blow	テクスチャブロー	Physical attack, 40 Wind damage to one foe. Inflicts Dot status effect.	10	Lv. 25	Inherit skill
+Millionaire	ミリオネア	Increase YEN gain from battles.	Support skill
+Level 1 Raw Stats
+
+HP	600	SP	66
+ATK	20	INT	80
+DEF	35	SPD	44
+Level 99 Raw Stats
+
+HP	1,670	SP	183
+ATK	98	INT	207
+DEF	133	SPD	132
+De-digivolution
+
+De-digivolves Into
+Armadillomon アルマジモン
+Kudamon クダモン
+Hagurumon ハグルモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ABI
+Vademon ベーダモン	26	85
+PlatinumNumemon プラチナヌメモン	65		10
+BlackKingNumemon ブラックキングヌメモン	32
+Cyclonemon サイクロモン
+
+No. 081
+Type: Virus　　　　　　　　　　　Attribute: Earth
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Hyper Heat	ハイパーヒート	Physical attack, 85 Fire damage to one foe. 10% chance to decrease target's DEF by 10%.	10	Lv. 1	Special skill
+Critical Charge	クリティカルチャージ	Increase the critical chance of one battle member by 10%.	6	Lv. 10	Inherit skill
+Earthquake I	アースクエイクI	Physical attack, 30 Earth damage to all foes. 95% accuracy.	4	Lv. 18	Inherit skill
+Cross Counter	クロスカウンター	Counterattack the enemy when you receive a physical attack.	6	Lv. 25	Inherit skill
+Kajiba no Bakadikara	火事場の馬鹿力	When HP is below 50%, ATK is increased by 20%.	Support skill
+Level 1 Raw Stats
+
+HP	450	SP	35
+ATK	78	INT	40
+DEF	65	SPD	42
+Level 99 Raw Stats
+
+HP	1,430	SP	133
+ATK	185	INT	147
+DEF	192	SPD	120
+De-digivolution
+
+De-digivolves Into
+BlackAgumon アグモン (黒)
+Armadillomon アルマジモン
+Dorumon ドルモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	DEF	INT	SPD
+Megadramon メガドラモン	26	400		95			75
+DoruGreymon ドルグレモン	30	400		95	75
+Datamon ナノモン	28		60			85
+Sunflowmon サンフラウモン
+
+No. 082
+Type: Data　　　　　　　　　　　Attribute: Plant
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Sunshine Beam	サンシャインビーム	Magic attack, 80 Light damage to one foe.	10	Lv. 1	Special skill
+Gaia Element II	ガイアエレメントII	Magic attack, 75 Plant damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Holy Light II	ホーリーライトII	Magic attack, 75 Light damage to one foe. 95% accuracy.	6	Lv. 18	Inherit skill
+EX Heal	エクスヒール	Restores HP for one party member.	8	Lv. 25	Inherit skill
+Flower Guard	フラワーガード	Full immunity to Poison.	Support skill
+Level 1 Raw Stats
+
+HP	650	SP	55
+ATK	25	INT	78
+DEF	40	SPD	42
+Level 99 Raw Stats
+
+HP	1,720	SP	172
+ATK	103	INT	205
+DEF	138	SPD	130
+De-digivolution
+
+De-digivolves Into
+Tentomon テントモン
+Palmon パルモン
+Lalamon ララモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	INT	SPD	ABI	CAM
+Angewomon エンジェウーモン	30	75	100		10
+Lilamon ライラモン	30	75	75
+Lillymon リリモン	30		75	75		50%
+Seadramon シードラモン
+
+No. 083
+Type: Data　　　　　　　　　　　Attribute: Water
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Ice Arrow	アイスアロー	Magic attack, 75 Water damage to one foe. 10% chance to decrease target's SPD by 10%.	10	Lv. 1	Special skill
+Hydro Water II	ハイドロウォーターII	Magic attack, 75 Water damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Anti Panic	アンチパニック	Recover Panic from one party member and restore some HP.	4	Lv. 18	Inherit skill
+Reflect Mirror	リフレクトミラー	Counterattack the enemy when you receive a magic attack.	6	Lv. 25	Inherit skill
+Mystery Scale	不思議なウロコ	Reduce the efficiency of received negative effects by 5%.	Support skill
+Level 1 Raw Stats
+
+HP	550	SP	60
+ATK	25	INT	71
+DEF	50	SPD	44
+Level 99 Raw Stats
+
+HP	1,620	SP	177
+ATK	103	INT	198
+DEF	148	SPD	132
+De-digivolution
+
+De-digivolves Into
+Otamamon オタマモン
+Syakomon シャコモン
+Betamon ベタモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	DEF	INT
+ShogunGekomon トノサマゲコモン	26	900
+MegaSeadramon メガシードラモン	30	400	70		70
+Whamon ホエーモン	28	850		75	75
+GeoGreymon ジオグレイモン
+
+No. 084
+Type: Vaccine　　　　　　　　　　Attribute: Fire
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Mega Burst	メガバースト	Physical attack, 45 Fire damage to all foes.	10	Lv. 1	Special skill
+Volcano Napalm II	ヴォルケナパームII	Physical attack, 85 Fire damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Heavy Strike II	ヘビーストライクII	Physical attack, 90 Neutral damage to one foe. 95% accuracy.	6	Lv. 18	Inherit skill
+Cross Counter	クロスカウンター	Counterattack the enemy when you receive a physical attack.	6	Lv. 25	Inherit skill
+Kajiba no Bakadikara	火事場の馬鹿力	When HP is below 50%, ATK is increased by 20%.	Support skill
+Level 1 Raw Stats
+
+HP	750	SP	45
+ATK	80	INT	25
+DEF	40	SPD	60
+Level 99 Raw Stats
+
+HP	1,920	SP	133
+ATK	207	INT	103
+DEF	128	SPD	177
+De-digivolution
+
+De-digivolves Into
+Agumon アグモン
+Guilmon ギルモン
+Huckmon ハックモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	SPD	CAM
+Gigadramon ギガドラモン	26	800	75	95
+RizeGreymon ライズグレイモン	30	350	100		75	50%
+SkullGreymon スカルグレイモン	28		120	85	70
+Sukamon スカモン
+
+No. 085
+Type: Virus　　　　　　　　　　　Attribute: Earth
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Poop 💩	ウンチ	Physical attack, 75 Earth damage to one foe. 30% chance to decrease target's SPD by 10%.	10	Lv. 1	Special skill
+Panic Wisp	パニックウィスプ	Magic attack, 30 Fire damage to one foe. Inflicts Panic status effect.	10	Lv. 10	Inherit skill
+Mental Break	メンタルブレイク	Reduce the intellect of one enemy by 10%.	6	Lv. 18	Inherit skill
+Nightmare II	ナイトメアII	Magic attack, 75 Dark damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Runners are Winners (Idiom)	逃げるが勝ち	Success in escapes becomes easier.	Support skill
+Level 1 Raw Stats
+
+HP	800	SP	45
+ATK	45	INT	25
+DEF	70	SPD	40
+Level 99 Raw Stats
+
+HP	2,070	SP	152
+ATK	133	INT	113
+DEF	197	SPD	118
+De-digivolution
+
+De-digivolves Into
+Agumon アグモン
+Elecmon エレキモン
+ToyAgumon トイアグモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	DEF	SPD
+SuperStarmon スーパースターモン	28	70	70	80
+Etemon エテモン	26	75		75	65
+Vademon ベーダモン	26	85
+Starmon スターモン
+
+No. 086
+Type: Data　　　　　　　　　　　Attribute: Neutral
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Meteor Squall	メテオスコール	Physical attack, 40 Neutral damage to all foes. 90% accuracy. Critical hits occur more easily.	10	Lv. 1	Special skill
+Heavy Strike II	ヘビーストライクII	Physical attack, 90 Neutral damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Saint Knuckle II	セイントナックルII	Physical attack, 85 Light damage to one foe. 95% accuracy.	6	Lv. 18	Inherit skill
+Power Energy II	パワーエナジーII	Magic attack, 80 Neutral damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Justice Union	正義の結束	Increase combo occurrence and continuation chance by 10%.	Support skill
+Level 1 Raw Stats
+
+HP	550	SP	45
+ATK	55	INT	42
+DEF	60	SPD	48
+Level 99 Raw Stats
+
+HP	1,620	SP	152
+ATK	153	INT	140
+DEF	158	SPD	155
+De-digivolution
+
+De-digivolves Into
+Gotsumon ゴツモン
+ToyAgumon トイアグモン
+Hagurumon ハグルモン
+Solarmon ソーラーモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	DEF	INT
+Mamemon マメモン	26		75	80
+MetalMamemon メタルマメモン	26			80	65
+SuperStarmon スーパースターモン	28	70	70	80
+Stingmon スティングモン
+
+No. 087
+Type: Free　　　　　　　　　　　Attribute: Plant
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Spiking Finish	スパイキングフィニッシュ	Piercing attack, Plant damage to one foe equals DEF stat. Critical hits occur more easily.	20	Lv. 1	Special skill
+Crescent Leaf II	クレセントリーフII	Physical attack, 85 Plant damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Gale Storm I	ゲイルストームI	Physical attack, 30 Wind damage to all foes. 95% accuracy.	4	Lv. 18	Inherit skill
+Wind Crow II	ウィンドクロウII	Physical attack, 85 Wind damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Nature Spirits	ネイチャースピリッツ	Increase damage dealt from plant skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	550	SP	40
+ATK	80	INT	35
+DEF	30	SPD	75
+Level 99 Raw Stats
+
+HP	1,720	SP	128
+ATK	207	INT	113
+DEF	118	SPD	192
+De-digivolution
+
+De-digivolves Into
+Tentomon テントモン
+Falcomon ファルコモン
+Wormmon ワームモン
+Digivolution Requirements
+
+Digivolves Into	Level	ATK	DEF	SPD	CAM	Jogress
+Infermon インフェルモン	30	95		80
+Paildramon パイルドラモン	30	90	60	75	100%	ExVeemon at 100%
+Okuwamon オオクワモン	26	95	90
+Sorcermon ソーサリモン
+
+No. 088
+Type: Vaccine　　　　　　　　　　Attribute: Water
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Crystal Cloud	クリスタルクラウド	Magic attack, 30 Water damage to all foes.	10	Lv. 1	Special skill
+Hydro Water II	ハイドロウォーターII	Magic attack, 75 Water damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Reflect Mirror	リフレクトミラー	Counterattack the enemy when you receive a magic attack.	6	Lv. 18	Inherit skill
+EX Heal	エクスヒール	Restores HP for one party member.	8	Lv. 25	Inherit skill
+Clear Mind	心頭滅却	Full immunity to Panic.	Support skill
+Level 1 Raw Stats
+
+HP	500	SP	65
+ATK	25	INT	85
+DEF	44	SPD	46
+Level 99 Raw Stats
+
+HP	1,570	SP	182
+ATK	103	INT	212
+DEF	142	SPD	134
+De-digivolution
+
+De-digivolves Into
+Impmon インプモン
+Gomamon ゴマモン
+Salamon プロットモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	INT	SPD
+Antylamon (Data) アンティラモン	28		65	75	85
+Piximon ピッコロモン	26	75		80	80
+Wisemon ワイズモン	28	75		100
+Tankmon タンクモン
+
+No. 089
+Type: Data　　　　　　　　　　　Attribute: Electric
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Hyper Cannon	ハイパーキャノン	Physical attack, 200 Fire damage to one foe. After use, unable to act for one turn.	10	Lv. 1	Special skill
+Nanomachine Break II	ナノマシンブレイクII	Physical attack, 85 Thunder damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Hit Charge	ヒットチャージ	Increase the accuracy of one battle member by 10%.	6	Lv. 18	Inherit skill
+Shock	ショック	Physical attack, 40 Earth damage to one foe. Inflicts Stun status effect.	10	Lv. 25	Inherit skill
+Iron Wall Defense	鉄壁の護り	Increase DEF by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	450	SP	35
+ATK	60	INT	45
+DEF	78	SPD	42
+Level 99 Raw Stats
+
+HP	1,430	SP	133
+ATK	167	INT	152
+DEF	205	SPD	120
+De-digivolution
+
+De-digivolves Into
+BlackAgumon アグモン (黒)
+Armadillomon アルマジモン
+Gotsumon ゴツモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	INT	SPD
+Andromon アンドロモン	28		75	75	75
+Gigadramon ギガドラモン	26	800	75	95
+CannonBeemon キャノンビーモン	28			75		75
+Knightmon ナイトモン	30		75	75
+Tyrannomon ティラノモン
+
+No. 090
+Type: Data　　　　　　　　　　　Attribute: Fire
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Fire Breath	ファイアーブレス	Physical attack, 90 Fire damage to one foe. Critical hits occur more easily.	10	Lv. 1	Special skill
+Accel Boost	アクセルブースト	Double your damage output in the next turn.	6	Lv. 10	Inherit skill
+Volcano Napalm II	ヴォルケナパームII	Physical attack, 85 Fire damage to one foe. 95% accuracy.	6	Lv. 18	Inherit skill
+Heavy Strike II	ヘビーストライクII	Physical attack, 90 Neutral damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Menace	威嚇	When attacking, 10% chance to inflict Stun status effect.	Support skill
+Level 1 Raw Stats
+
+HP	650	SP	20
+ATK	85	INT	20
+DEF	67	SPD	48
+Level 99 Raw Stats
+
+HP	1,820	SP	98
+ATK	212	INT	98
+DEF	184	SPD	146
+De-digivolution
+
+De-digivolves Into
+Agumon アグモン
+BlackAgumon アグモン (黒)
+Guilmon ギルモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	SPD	DLC
+Mamemon マメモン	26		75	80
+Megadramon メガドラモン	26	400	95		75
+BlueMetalGreymon メタルグレイモン (青)	30	450	110			☆
+MetalTyrannomon メタルティラノモン	28		75	95
+Gatomon テイルモン
+
+No. 091
+Type: Vaccine　　　　　　　　　　Attribute: Light
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Lightning Paw	ネコパンチ	Fixed damage of 150 to one foe. 60% chance of confusing target.	10	Lv. 1	Special skill
+Holy Light II	ホーリーライトII	Magic attack, 75 Light damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Aura	オーラ	Restores a little HP for all party members.	10	Lv. 18	Inherit skill
+Revive	リバイブ	Revive one fallen party member with 50% HP.	30	Lv. 25	Inherit skill
+Holy Ring	ホーリーリング	Increase HP restoration by 20%.	Support skill
+Level 1 Raw Stats
+
+HP	250	SP	80
+ATK	30	INT	80
+DEF	35	SPD	65
+Level 99 Raw Stats
+
+HP	1,030	SP	207
+ATK	108	INT	207
+DEF	123	SPD	182
+De-digivolution
+
+De-digivolves Into
+Terriermon テリアモン
+Patamon パタモン
+Salamon プロットモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	INT	SPD	ABI	CAM	Jogress
+Angewomon エンジェウーモン	30	75		100		10
+Lillymon リリモン	30			75	75		50%
+Silphymon シルフィーモン	30		60	75	75		100%	Aquilamon at 100%
+Devimon デビモン
+
+No. 092
+Type: Virus　　　　　　　　　　　Attribute: Dark
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Death Claw	デスクロウ	A dark attack that deals 200 fixed damage to one enemy, absorbs 20% of the damage into HP.	10	Lv. 1	Special skill
+Destroy Cannon II	デストロイキャノンII	Physical attack, 85 Dark damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Physical Drain	フィジカルドレイン	Physical attack, 50 Neutral damage to one foe. Absorb 10% SP.	3	Lv. 18	Inherit skill
+Hell Crusher I	ヘルクラッシャーI	Magic attack, 20 Dark damage to all foes. 95% accuracy.	4	Lv. 25	Inherit skill
+Nightmare Soldiers	ナイトメアソルジャーズ	Increase damage dealt from dark skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	500	SP	45
+ATK	75	INT	67
+DEF	40	SPD	48
+Level 99 Raw Stats
+
+HP	1,480	SP	143
+ATK	192	INT	184
+DEF	128	SPD	146
+De-digivolution
+
+De-digivolves Into
+DemiDevimon ピコデビモン
+Lucemon ルーチェモン
+Lopmon ロップモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	INT	SPD	ABI	DLC
+BlueMeramon ブルーメラモン	28	400	80	70
+Infermon インフェルモン	30		95		80
+BlueMetalGreymon メタルグレイモン (青)	30	450	110				☆
+Myotismon ヴァンデモン	30		70	90		10
+Togemon トゲモン
+
+No. 093
+Type: Data　　　　　　　　　　　Attribute: Plant
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Prickly Bang-bang	チクチクバンバン	Physical attack, 40 Plant damage to all foes. 5% chance to inflict Paralyze.	10	Lv. 1	Special skill
+Crescent Leaf II	クレセントリーフII	Physical attack, 85 Plant damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Anti Paralyze	アンチパラライズ	Recover Paralyze from one party member and restore some HP.	4	Lv. 18	Inherit skill
+Biribiri Net	ビリビリネット	Physical attack, 40 Thunder damage to one foe. Inflicts Paralyze status effect.	10	Lv. 25	Inherit skill
+Poison Thorn	猛毒のトゲ	When attacking, 10% chance to inflict Poison status effect.	Support skill
+Level 1 Raw Stats
+
+HP	700	SP	40
+ATK	55	INT	44
+DEF	60	SPD	46
+Level 99 Raw Stats
+
+HP	1,970	SP	128
+ATK	162	INT	142
+DEF	167	SPD	134
+De-digivolution
+
+De-digivolves Into
+Gaomon ガオモン
+Palmon パルモン
+Lalamon ララモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	INT	SPD	CAM
+MachGaogamon マッハガオガモン	26		75		80
+Lillymon リリモン	30			75	75	50%
+Pumpkinmon パンプモン	26	850	60	60
+Dorugamon ドルガモン
+
+No. 094
+Type: Data　　　　　　　　　　　Attribute: Earth
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Power Metal	パワーメタル	Physical attack, 90 Neutral damage to one foe. 30% chance to increase own attack by 10%.	10	Lv. 1	Special skill
+Comet Hammer II	コメットハンマーII	Physical attack, 85 Earth damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Guard Charge	ガードチャージ	Increase the defense of one member by 10%.	6	Lv. 18	Inherit skill
+Speed Charge	スピードチャージ	Increase the speed of one member by 10%.	6	Lv. 25	Inherit skill
+Vigorous Blow	渾身の一撃	Increase critical chance by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	600	SP	40
+ATK	75	INT	30
+DEF	45	SPD	65
+Level 99 Raw Stats
+
+HP	1,770	SP	128
+ATK	202	INT	108
+DEF	133	SPD	182
+De-digivolution
+
+De-digivolves Into
+Gazimon ガジモン
+Gabumon ガブモン
+Dorumon ドルモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	DEF	SPD	ABI	CAM
+RizeGreymon ライズグレイモン	30	350		100		75		50%
+DoruGreymon ドルグレモン	30	400		95	75
+Chirinmon チィリンモン	30		75			100	10
+Nanimon ナニモン
+
+No. 095
+Type: Virus　　　　　　　　　　　Attribute: Earth
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Poop Dunk	ウンチダンク	Physical attack, 80 Earth damage to one foe. 30% chance to decrease target's DEF by 10%.	10	Lv. 1	Special skill
+Comet Hammer II	コメットハンマーII	Physical attack, 85 Earth damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Attack Break	アタックブレイク	Reduce the attack of one enemy by 10%.	6	Lv. 18	Inherit skill
+Shock	ショック	Physical attack, 40 Earth damage to one foe. Inflicts Stun status effect.	10	Lv. 25	Inherit skill
+Immobility	不動	Full immunity to Stun.	Support skill
+Level 1 Raw Stats
+
+HP	580	SP	35
+ATK	55	INT	45
+DEF	70	SPD	42
+Level 99 Raw Stats
+
+HP	1,560	SP	133
+ATK	162	INT	152
+DEF	197	SPD	120
+De-digivolution
+
+De-digivolves Into
+Elecmon エレキモン
+Gazimon ガジモン
+Goblimon ゴブリモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	DEF
+Digitamamon デジタマモン	30	700			75
+SuperStarmon スーパースターモン	28		70	70	80
+Meteormon インセキモン	26				110
+Numemon ヌメモン
+
+No. 096
+Type: Virus　　　　　　　　　　　Attribute: Earth
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Poop Throw	ウンチ投げ	Physical attack, 75 Earth damage to one foe. 30% chance to decrease target's ATK by 10%.	10	Lv. 1	Special skill
+Venom Trap	ベノムトラップ	Physical attack, 40 Plant damage to one foe. Inflicts Poison status effect.	10	Lv. 10	Inherit skill
+Speed Break	スピードブレイク	Reduce the speed of one enemy by 10%.	6	Lv. 18	Inherit skill
+Ice Archery II	アイスアーチェリII	Physical attack, 85 Water damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Pickup	ものひろい	Increase the item drop rate from enemies.	Support skill
+Level 1 Raw Stats
+
+HP	750	SP	46
+ATK	40	INT	25
+DEF	75	SPD	44
+Level 99 Raw Stats
+
+HP	2,020	SP	153
+ATK	128	INT	113
+DEF	202	SPD	122
+De-digivolution
+
+De-digivolves Into
+Otamamon オタマモン
+Gabumon ガブモン
+Betamon ベタモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	DEF	SPD
+BlackKingNumemon ブラックキングヌメモン	32
+Etemon エテモン	26		75		75	65
+Monzaemon もんざえモン	26	600		60
+Birdramon バードラモン
+
+No. 097
+Type: Vaccine　　　　　　　　　　Attribute: Fire
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Meteor Wing	メテオウイング	Magic attack, 25 Fire damage to all foes. 10% chance to increase own SPD by 10%.	10	Lv. 1	Special skill
+Burst Flame II	バーストフレイムII	Magic attack, 75 Fire damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Anti Poison	アンチポイズン	Recover Poison from one party member and restore some HP.	4	Lv. 18	Inherit skill
+Meteor Fall I	メテオフォールI	Physical attack, 30 Fire damage to all foes. 95% accuracy.	4	Lv. 25	Inherit skill
+Phoenix Feather	不死鳥の羽	Full immunity to Death.	Support skill
+Level 1 Raw Stats
+
+HP	500	SP	60
+ATK	45	INT	60
+DEF	35	SPD	65
+Level 99 Raw Stats
+
+HP	1,380	SP	167
+ATK	143	INT	158
+DEF	133	SPD	192
+De-digivolution
+
+De-digivolves Into
+Patamon パタモン
+Piyomon ピヨモン
+Hawkmon ホークモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	SPD	ABI	CAM
+AeroVeedramon エアロブイドラモン	30		75	95		25%
+Garudamon ガルダモン	30		75	75
+Chirinmon チィリンモン	30	75		100	10
+Crowmon ヤタガラモン	30	75		90
+Bakemon バケモン
+
+No. 098
+Type: Virus　　　　　　　　　　　Attribute: Dark
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Death Charm	デスチャーム	Reduce 10% HP from one enemy.	10	Lv. 1	Special skill
+Nightmare II	ナイトメアII	Magic attack, 75 Dark damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Agility Charge	アジリティチャージ	Increase the evasion of one battle member by 10%.	6	Lv. 18	Inherit skill
+Physical Drain	フィジカルドレイン	Physical attack, 50 Neutral damage to one foe. Absorb 10% SP.	3	Lv. 25	Inherit skill
+Strange Dance	奇怪な踊り	When attacking, 10% chance to inflict Panic status effect.	Support skill
+Level 1 Raw Stats
+
+HP	200	SP	85
+ATK	25	INT	75
+DEF	30	SPD	70
+Level 99 Raw Stats
+
+HP	980	SP	212
+ATK	103	INT	202
+DEF	118	SPD	187
+De-digivolution
+
+De-digivolves Into
+Impmon インプモン
+Keramon ケラモン
+DemiDevimon ピコデビモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	INT	ABI
+BlueMeramon ブルーメラモン	28	400		80	70
+Pumpkinmon パンプモン	26	850		60	60
+Myotismon ヴァンデモン	30			70	90	10
+LadyDevimon レディーデビモン	30		75		95	10
+Veedramon ブイドラモン
+
+No. 099
+Type: Vaccine　　　　　　　　　　Attribute: Wind
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+V-Breath Arrow	ブイブレスアロー	Physical attack, 105 Fire damage to one foe. After use, receive 5% HP damage from recoil.	10	Lv. 1	Special skill
+Wind Crow II	ウィンドクロウII	Physical attack, 85 Wind damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Chain Plus	チェインプラス	Increase the combo chance for one member by 50%.	4	Lv. 18	Inherit skill
+Saint Knuckle II	セイントナックルII	Physical attack, 85 Light damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Dragon's Rage	竜の怒り	Increase ATK by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	600	SP	45
+ATK	75	INT	25
+DEF	55	SPD	65
+Level 99 Raw Stats
+
+HP	1,770	SP	123
+ATK	202	INT	103
+DEF	172	SPD	163
+De-digivolution
+
+De-digivolves Into
+Gabumon ガブモン
+Veemon ブイモン
+Salamon プロットモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	SPD	CAM
+AeroVeedramon エアロブイドラモン	30		75		95	25%
+Cyberdramon サイバードラモン	28	400	75		75
+MetalTyrannomon メタルティラノモン	28		75	95
+WarGrowlmon メガログラウモン	30		105		75
+PlatinumSukamon プラチナスカモン
+
+No. 100
+Type: Virus　　　　　　　　　　　Attribute: Neutral
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Rare Metal Poop	レアメタルウンチ	Physical attack, 80 Earth damage to one foe. Causes Knockback.	10	Lv. 1	Special skill
+Anti Bug	アンチバグ	Recover Bug from one party member and restore some HP.	4	Lv. 10	Inherit skill
+Mental Break	メンタルブレイク	Reduce the intellect of one enemy by 10%.	6	Lv. 18	Inherit skill
+Character Reverse	キャラクターリバース	Magic attack, 30 Neutral damage to one foe. Inflicts Bug status effect.	10	Lv. 25	Inherit skill
+Platinum Bonus	プラチナボーナス	Increase EXP gain from battles.	Support skill
+Level 1 Raw Stats
+
+HP	750	SP	45
+ATK	35	INT	35
+DEF	75	SPD	40
+Level 99 Raw Stats
+
+HP	2,020	SP	152
+ATK	123	INT	123
+DEF	202	SPD	118
+De-digivolution
+
+De-digivolves Into
+Keramon ケラモン
+Hagurumon ハグルモン
+Huckmon ハックモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	DEF	INT	SPD
+Etemon エテモン	26	75	75		65
+MetalMamemon メタルマメモン	26		80	65
+Vademon ベーダモン	26	85
+BlackGatomon ブラックテイルモン
+
+No. 101
+Type: Virus　　　　　　　　　　　Attribute: Dark
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Cat Punch	ネコパンチ	Deal 150 fixed damage to one enemy. 60% chance to inflict Panic.	10	Lv. 1	Special skill
+Nightmare II	ナイトメアII	Magic attack, 75 Dark damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Ground Rock II	グランドロックII	Magic attack, 75 Earth damage to one foe. 95% accuracy.	6	Lv. 18	Inherit skill
+Power Energy II	パワーエナジーII	Magic attack, 80 Neutral damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Nightmare Soldiers	ナイトメアソルジャーズ	Increase damage dealt from dark skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	300	SP	70
+ATK	45	INT	70
+DEF	40	SPD	60
+Level 99 Raw Stats
+
+HP	1,080	SP	197
+ATK	123	INT	197
+DEF	128	SPD	177
+De-digivolution
+
+De-digivolves Into
+Impmon インプモン
+Renamon レナモン
+Lopmon ロップモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	DEF	INT	SPD	ABI	DLC
+Cyberdramon サイバードラモン	28	400		75			75
+Knightmon ナイトモン	30			75	75
+LadyDevimon レディーデビモン	30		75			95		10
+BlackWereGarurumon ワーガルルモン (黒)	28	400		90			70		☆
+Vegimon ベジーモン
+
+No. 102
+Type: Virus　　　　　　　　　　　Attribute: Plant
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Super Stinky Spray	超悪臭噴射	Magic attack, 20 Earth damage to all foes. 30% chance to decrease target's SPD by 10%.	10	Lv. 1	Special skill
+Gaia Element II	ガイアエレメントII	Magic attack, 75 Plant damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Speed Break	スピードブレイク	Reduce the speed of one enemy by 10%.	6	Lv. 18	Inherit skill
+Venom Trap	ベノムトラップ	Physical attack, 40 Plant damage to one foe. Inflicts Poison status effect.	10	Lv. 25	Inherit skill
+Nature Spirits	ネイチャースピリッツ	Increase damage dealt from plant skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	750	SP	35
+ATK	60	INT	38
+DEF	53	SPD	44
+Level 99 Raw Stats
+
+HP	2,020	SP	123
+ATK	167	INT	136
+DEF	160	SPD	132
+De-digivolution
+
+De-digivolves Into
+Palmon パルモン
+Betamon ベタモン
+Lalamon ララモン
+BlackGabumon ガブモン (黒)
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	DEF	INT
+Digitamamon デジタマモン	30	700		75
+Lilamon ライラモン	30		75		75
+MegaKabuterimon アトラーカブテリモン	28	400		95
+Peckmon ペックモン
+
+No. 103
+Type: Vaccine　　　　　　　　　　Attribute: Wind
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Kunai Feathers	苦無羽	Physical attack, 30 Wind damage to one foe thrice.	10	Lv. 1	Special skill
+Wind Crow II	ウィンドクロウII	Physical attack, 85 Wind damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Agility Charge	アジリティチャージ	Increase the evasion of one battle member by 10%.	6	Lv. 18	Inherit skill
+Escape Dash	とんずらダッシュ	Flee from a battle.	0	Lv. 25	Inherit skill
+Wind Guardians	ウィンドガーディアンズ	Increase damage dealt from wind skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	350	SP	60
+ATK	55	INT	45
+DEF	35	SPD	85
+Level 99 Raw Stats
+
+HP	1,230	SP	167
+ATK	153	INT	143
+DEF	133	SPD	212
+De-digivolution
+
+De-digivolves Into
+Kudamon クダモン
+Falcomon ファルコモン
+Hawkmon ホークモン
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	INT	SPD
+Antylamon (Data) アンティラモン	28		65	75	85
+Piximon ピッコロモン	26	75		80	80
+Crowmon ヤタガラモン	30	75			90
+Meramon メラモン
+
+No. 104
+Type: Data　　　　　　　　　　　Attribute: Fire
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Burning Fist	バーニングフィスト	Physical attack, 80 Fire damage to one foe. 30% chance to increase own ATK by 10%.	10	Lv. 1	Special skill
+Attack Charge	アタックチャージ	Increase the attack of one member by 10%.	6	Lv. 10	Inherit skill
+Volcano Napalm II	ヴォルケナパームII	Physical attack, 85 Fire damage to one foe. 95% accuracy.	6	Lv. 18	Inherit skill
+Burst Flame II	バーストフレイムII	Magic attack, 75 Fire damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Dragon's Roar	ドラゴンズロア	Increase damage dealt from fire skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	550	SP	30
+ATK	75	INT	40
+DEF	55	SPD	50
+Level 99 Raw Stats
+
+HP	1,720	SP	108
+ATK	202	INT	118
+DEF	172	SPD	148
+De-digivolution
+
+De-digivolves Into
+Agumon アグモン
+Guilmon ギルモン
+Hawkmon ホークモン
+Solarmon ソーラーモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	INT	SPD
+BlueMeramon ブルーメラモン	28	400	80		70
+SkullMeramon デスメラモン	28	500	95
+Mamemon マメモン	26		75	80
+IceLeomon パンジャモン	28	350	75			75
+Frigimon ユキダルモン
+
+No. 105
+Type: Vaccine　　　　　　　　　　Attribute: Water
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Absolute Zero Punch	絶対零度パンチ	Physical attack, 80 Water damage to one foe. 10% chance to inflict Stun.	10	Lv. 1	Special skill
+Ice Archery II	アイスアーチェリII	Physical attack, 85 Water damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Ocean Wave I	オーシャンウェーブI	Magic attack, 20 Water damage to all foes. 95% accuracy.	4	Lv. 18	Inherit skill
+Aura	オーラ	Restores a little HP for all party members.	10	Lv. 25	Inherit skill
+Deep Savers	ディープセイバーズ	Increase damage dealt from water skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	750	SP	39
+ATK	50	INT	50
+DEF	45	SPD	46
+Level 99 Raw Stats
+
+HP	2,020	SP	127
+ATK	157	INT	148
+DEF	152	SPD	134
+De-digivolution
+
+De-digivolves Into
+Gabumon ガブモン
+Gomamon ゴマモン
+Salamon プロットモン
+BlackGabumon ガブモン (黒)
+Digivolution Requirements
+
+Digivolves Into	Level	HP	SP	ATK	INT	ABI	CAM
+Zudomon ズドモン	30	800		75			50%
+Angewomon エンジェウーモン	30		75		100	10
+Monzaemon もんざえモン	26	600		60
+Leomon レオモン
+
+No. 106
+Type: Vaccine　　　　　　　　　　Attribute: Earth
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Beast-King Fist	獣王拳	Physical attack, 95 Earth damage to one foe.	10	Lv. 1	Special skill
+Comet Hammer II	コメットハンマーII	Physical attack, 85 Earth damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Attack Charge	アタックチャージ	Increase the attack of one member by 10%.	6	Lv. 18	Inherit skill
+Saint Knuckle II	セイントナックルII	Physical attack, 85 Light damage to one foe. 95% accuracy.	6	Lv. 25	Inherit skill
+Animal Colosseum	アニマルコロシアム	Increase damage dealt from earth skills by 15%.	Support skill
+Level 1 Raw Stats
+
+HP	600	SP	30
+ATK	80	INT	32
+DEF	65	SPD	48
+Level 99 Raw Stats
+
+HP	1,770	SP	108
+ATK	207	INT	110
+DEF	182	SPD	146
+De-digivolution
+
+De-digivolves Into
+Elecmon エレキモン
+Gaomon ガオモン
+Gazimon ガジモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	SPD	CAM
+GrapLeomon グラップレオモン	26	400	95
+MetalGreymon メタルグレイモン	30	350	100			50%
+Meteormon インセキモン	26			110
+IceLeomon パンジャモン	28	350	75		75
+Reppamon レッパモン
+
+No. 107
+Type: Vaccine　　　　　　　　　　Attribute: Light
+Equipment Slots: 1　　　　　　　　　Party Memory: 8
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Kurukuru Rekkūzan	駆駆裂空斬	Physical attack, 30 Neutral damage to one foe 2~4 times.	10	Lv. 1	Special skill
+Saint Knuckle II	セイントナックルII	Physical attack, 85 Light damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Shine Laser I	シャインレーザーI	Magic attack, 20 Light damage to all foes. 95% accuracy.	4	Lv. 18	Inherit skill
+Aura	オーラ	Restores a little HP for all party members.	10	Lv. 25	Inherit skill
+Mystery Protection	神秘の護り	Reduce the chance of receiving status effects by 50%.	Support skill
+Level 1 Raw Stats
+
+HP	350	SP	65
+ATK	45	INT	50
+DEF	50	SPD	80
+Level 99 Raw Stats
+
+HP	1,230	SP	172
+ATK	143	INT	148
+DEF	148	SPD	207
+De-digivolution
+
+De-digivolves Into
+Kudamon クダモン
+Patamon パタモン
+Salamon プロットモン
+BlackGabumon ガブモン (黒)
+Digivolution Requirements
+
+Digivolves Into	Level	SP	ATK	INT	SPD	ABI	CAM
+Rapidmon ラピッドモン	28		75		75		50%
+Piximon ピッコロモン	26	75		80	80
+Chirinmon チィリンモン	30	75			100	10
+Waspmon ワスプモン
+
+No. 108
+Type: Virus　　　　　　　　　　　Attribute: Electric
+Equipment Slots: 2　　　　　　　　　Party Memory: 6
+Skill Name	Description	SP Cost	Learn At	Skill Type
+Turbo Stinger	ターボスティンガー	Physical attack, 25 Thunder damage to one foe four times.	10	Lv. 1	Special skill
+Nanomachine Break II	ナノマシンブレイクII	Physical attack, 85 Thunder damage to one foe. 95% accuracy.	6	Lv. 10	Inherit skill
+Hit Charge	ヒットチャージ	Increase the accuracy of one battle member by 10%.	6	Lv. 18	Inherit skill
+Biribiri Net	ビリビリネット	Physical attack, 40 Thunder damage to one foe. Inflicts Paralyze status effect.	10	Lv. 25	Inherit skill
+Royal Command	ローヤルコマンド	When attacking, 10% chance to inflict Paralyze status effect.	Support skill
+Level 1 Raw Stats
+
+HP	600	SP	30
+ATK	70	INT	35
+DEF	55	SPD	55
+Level 99 Raw Stats
+
+HP	1,770	SP	118
+ATK	197	INT	113
+DEF	143	SPD	172
+De-digivolution
+
+De-digivolves Into
+Tentomon テントモン
+Dorumon ドルモン
+Wormmon ワームモン
+Digivolution Requirements
+
+Digivolves Into	Level	HP	ATK	DEF	SPD	CAM
+CannonBeemon キャノンビーモン	28			75	75
+Rapidmon ラピッドモン	28		75		75	50%
+MegaKabuterimon アトラーカブテリモン	28	400		95
+Okuwamon オオクワモン	26		95	90
+Ultimate
+
+Perfect 「完全体」
+MegaKabuterimon アトラーカブテリモン
+
+No. 109
