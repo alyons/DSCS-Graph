@@ -1,7 +1,15 @@
 from digimon import Digimon
+from enum import Enum
+
+class LoadingState(Enum):
+    none = 0
+    name_found = 1
+    skills_found = 2
+    evos_found = 3
+    devos_found = 4
+
 
 graph = {}
-
 
 def load_digimon(file_name):
     digimon_file = open(file_name, "r")
@@ -45,12 +53,60 @@ def load_digimon_ex(file_name):
             digimon.digivolutions = digivolutions.split(', ')
             graph[data[0]] = digimon
 
+    generate_dedigivolutions()
+
+
+def load_digimon_hyper(file_name):
+    loading_state = LoadingState.none
+
+    digimon_file = open(file_name, "r", encoding="UTF-8")
+
+    lines = digimon_file.readlines(-1)
+
+    name = "Tempmon"
+    evos = []
+    devos = []
+
+    for l in range(0, len(lines)):
+
+        if loading_state == LoadingState.evos_found:
+            if "No. " in lines[l+2]:
+                loading_state = LoadingState.none
+                # print("End of evos")
+            else:
+                evo_line = lines[l]
+                # print(name, "digivoles into", evo_line)
+                evo_name = evo_line.split(' ')[0]
+                if evo_name not in evos:
+                    evos.append(evo_name)
+
+        if "No. " in lines[l]:
+
+            # Unload previous Digimon
+            if name != "Tempmon":
+                graph[name] = Digimon(name, evos, devos)
+                evos = []
+                devos = []
+
+            name_line = lines[l-2]
+            name = name_line.split(' ')[0]
+            loading_state = LoadingState.name_found
+        elif "Digivolves Into" in lines[l]:
+            # print("Evos Found!")
+            loading_state = LoadingState.evos_found
+
+        if l == len(lines) - 1:
+            if name != "Tempmon":
+                graph[name] = Digimon(name, evos, devos)
+
+    generate_dedigivolutions()
+
+
+def generate_dedigivolutions():
     for digi_name in graph:
         results = [d for d in graph.keys() if digi_name in graph[d].digivolutions]
-        print(digi_name, "digivolves from", results)
         graph[digi_name].dedigivolutions = results
 
-    print("Digimon found:", count)
 
 def print_digimon():
     line = ""
@@ -58,7 +114,8 @@ def print_digimon():
         line += '-'
 
     for digimon in graph:
-        print(digimon)
+        print("Key in Graph:", digimon)
+        print(graph[digimon])
         print(line)
 
 
@@ -90,6 +147,7 @@ def main_app():
         print("1. Find Digimon Path")
         print("2. Search for Digimon by name")
         print("3. Print Digimon Info")
+        print("4. Print all Digimon")
         print("Enter 'quit' or 'q' to close the program")
 
         choice = input("Enter a command: ")
@@ -139,6 +197,8 @@ def main_app():
                 print("Dedigivoles to:", digimon.dedigivolutions)
             else:
                 print("Please retry with a valid Digimon in this game.")
+        elif choice == '4':
+            print_digimon()
         else:
             print("Please enter a recognized command")
 
@@ -147,7 +207,8 @@ def main_app():
 
 if __name__ == "__main__":
     # load_digimon("digimon.txt")
-    load_digimon_ex("digimon_story_cyber_sleuth_evo_guide.txt")
+    # load_digimon_ex("digimon_story_cyber_sleuth_evo_guide.txt")
+    load_digimon_hyper("digimon_super_file.txt")
     # print_digimon()
     main_app()
 
