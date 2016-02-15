@@ -1,0 +1,477 @@
+Baby
+Kuramon: Tsumemon, Pagumon
+Bubbmon: Motimon, Pyocomon, Tanemon
+Punimon: Nyaromon, Tsunomon
+Botamon: Koromon, Wanyamon
+Poyomon: Pukamon, Tokomon
+
+In-Training/Baby II
+Koromon: Agumon, Guilmon, ToyAgumon, Hackmon
+Tsunomon: Gabumon, Black Gabumon, Goblimon, Veemon
+Tanemon: Palmon, Lalamon, Renamon
+Tsumemon: Black Agumon, Keramon, DemiDevimon
+Tokomon: Patamon, Falcomon, Hawkmon, Lucemon (child)
+Nyaromon: Armadillomon, Terriermon, Salamon
+Pagumon: Impmon, Gazimon, Lopmon
+Yokomon: Elecmon, Biyomon, Wormmon
+Bukamon: Otamamon, Gomamon, Syakomon, Betamon
+Motimon: Gotsumon, Tentomon, Hagurumon, Solarmon
+Wanyamon: Gaomon, Kudamon, Dorumon
+
+Rookie/Child
+Agumon: Greymon, GeoGreymon, Meramon, Tyrannomon, Sukamon
+(Level 9, attack 30, friendship 10)
+Black Agumon: Growlmon, Cyclomon, Tankmon, Tyrannomon, Black Greymon
+(Level 8, attack 30 - DLC required)
+Armadillomon: Ankylomon, Cyclomon, GoldNumemon, Tankmon, Geremon
+(Level 7, HP 75, defense 20, friendship 10)
+Impmon: Bakemon, Ogremon, Sorcerymon, BlackGatomon, Wizardmon, IceDevimon
+(Level 7, SP 20, intelligence 30)
+Elecmon: Garurumon, Leomon, Nanimon, Sukamon, Black Garurumon, Geremon
+(level 7, HP 75, SP 20, speed 20)
+Otamamon: Gekomon, Numemon, Seadramon, KaratsukiNumemon
+(Level 7, intelligence 20)
+Gaomon: Gargomon, Gaogamon, Leomon, Togemon, Ogremon
+(Level 9, attack 20, speed 20, friendship 10)
+Gazimon: Dorugamon, Gaogamon, Leomon, Chrysalimon, Nanimon, Black Garurumon
+(Level 9, attack 15, speed 20)
+Gabumon: Dorugamon, Garurumon, Numemon, Veedramon, Frigimon
+(Level 7, HP 75, attack 20, speed 20)
+Black Gabumon: Black Garurumon, Vegimon, Reppamon, Frigimon
+(level 6, HP 80, attack 30 - DLC required)
+Guilmon: GeoGreymon, Growlmon, Meramon, Tyrannomon, Black Greymon
+(Level 7, attack 30, speed 20)
+Kudamon: Angemon, GoldNumemon, Peckmon, Reppamon
+(Level 8, SP 20, intelligence 20)
+Keramon: Bakemon, Chrysalimon, PlatinumSukamon, Wizardmon
+(Level 9, attack 20, speed 20)
+Gotsumon: Ankylomon, Clockmon, Starmon, Tankmon
+(Level 8, defense 30)
+Goblimon: Gaogamon, Growlmon, Nanimon, Ogremon, Black Greymon
+(Level 7, attack 40)
+Gomamon: Ankylomon, Ikkakumon, Sorcerymon, Frigimon
+(Level 8, HP 100, friendship 10)
+Syakomon: Ikkakumon, KaratsukiNumemon, Gekomon, Seadramon
+(Level 7, defense 15, intelligence 20)
+Solarmon: Clockmon, Geremon, Starmon, Meramon
+(Level 6, HP 75, defense 20)
+Terriermon: Gargomon, Ikkakumon, Gatomon, Rapidmon (Armor)
+(Level 8, speed 30, friendship 10)
+Tentomon: Kabuterimon, Waspmon, Kuwagamon, Stingmon, Sunflowmon
+(Level 9, defense 20, friendship 10)
+ToyAgumon: Clockmon, Greymon, Guardromon, Sukamon, Starmon
+(Level 8, HP 75, defense 20)
+Dorumon: Cyclomon, Dorugamon, Guardromon, Waspmon
+(Level 8, 20 attack, speed 30)
+Hagurumon: Clockmon, GoldNumemon, Guardromon, Starmon, PlatinumSukamon
+(Level 7, HP 75, defense 30)
+Patamon: Angemon, Birdramon, Reppamon, Gatomon, ExVeemon
+(Level 7, intelligence 20, speed 20, friendship 10)
+Hackmon: Jesmon (yes, he warps straight to Jesmon, this is only unlocked lategame), Greymon, GeoGreymon, PlatinumSukamon
+(Level 9, attack 20, talent 20)
+Palmon: Kuwagamon, Togemon, Vegimon, Sunflowmon, Woodmon
+(Level 8, HP 100, friendship 10)
+DemiDevimon: Bakemon, Devimon, Kyubimon, Chrysalimon, IceDevimon
+(Level 8, speed 30)
+Biyomon: Kabuterimon, Aquilamon, Birdramon, Kyubimon
+(Level 8, intelligence 20, speed 20, friendship 10)
+Falcomon: Stingmon, ExVeemon, Aquilamon, Peckmon
+(Level 9, speed 30)
+Veemon: Flamedramon, Magnamon, Veedramon, ExVeemon
+(Level 6, attack 20, speed 20)
+Salamon: Frigimon, Reppamon, Gatomon, Veedramon, Sorcerymon
+(Level 7, SP 20, intelligence 20, friendship 10)
+Betamon: Gekomon, Numemon, Seadramon, KaratsukiNumemon, Vegimon
+(Level 8, intelligence 40)
+Hawkmon: Meramon, Aquilamon, Birdramon, Peckmon
+(Level 7, speed 30, friendship 10)
+Lalamon: Sunflowmon, Togemon, Vegimon, Woodmon
+(Level 9, HP 75, speed 30, friendship 10)
+Lucemon: Angemon, Devimon, Lucemon FM
+(Level 30, SP 80, intelligence 130, talent 80)
+Renamon: BlackGatomon, Garurumon, Kyubimon, Woodmon
+(Level 7, attack 20, intelligence 20, speed 20)
+Lopmon: Gargomon, Devimon, BlackGatomon, Wizardmon
+(Level 8, attack 15, intelligence 20)
+Wormmon: Waspmon, Kabuterimon, Kuwagamon, Stingmon, IceDevimon
+(Level 8, defense 20, friendship 10)
+
+Champion/Adult
+IceDevimon: Myotismon, Cherrymon, LadyDevimon
+(Level 15, attack 40, intelligence 40)
+Aquilamon: AeroVeedramon, Garudamon, Silphymon, Yatagaramon
+(Level 14, speed 55)
+Ankylomon: MagnaAngemon, Meteormon, Shakkoumon, SkullGreymon
+(Level 15, HP 150, defense 40)
+Ikkakumon: MachGaogamon, Whamon, Zudomon
+(Level 15, HP 300, friendship 25)
+Wizardmon: DeathMeramon, Myotismon, Wisemon
+(Level 14, SP 35, intelligence 55)
+Woodmon: Cherrymon, Pumpkinmon, Taomon
+(Level 14, HP 500)
+ExVeemon: MagnaAngemon, Paildramon, RizeGreymon
+(Level 14, attack 40, speed 40, friendship 25)
+Angemon: Garudamon, MagnaAngemon, Shakkoumon
+(Level 16, intelligence 40)
+Ogremon: DeathMeramon, Digitamamon, WereGarurumon
+(level 14, attack 55)
+Guardromon: Andromon, GrappLeomon, MetalMamemon, Datamon
+(Level 14, defense 55)
+Gaogamon: GrappLeomon, MachGaogamon, WereGarurumon
+(Level 15, speed 55)
+Kabuterimon: MegaKabuterimon, Cherrymon, Lilamon
+(Level 14, defense 40, intelligence 40)
+KaratsukiNumemon: BlackKingNumemon, MegaSeadramon, ShogunGekomon
+(Level 14, HP 150, defense 55)
+Gargomon: WarGrowlmon, Antylamon, Rapidmon
+(Level 15, HP 150, speed 40)
+Garurumon: DoruGreymon, Panjyamon, WereGarurumon, Zudomon
+(Level 15, speed 50, friendship 25)
+BlackGarurumon: BlackWereGarurumon, BlueMeramon, MachGaogamon
+(Level 15, attack 35, speed 50)
+Kyubimon: LadyDevimon, Monzaemon, Taomon
+(Level 14, SP 40, intelligence 40, speed 40)
+Growlmon: Gigadramon, WarGrowlmon, MetalGreymon, MetalTyrannomon
+(Level 15, attack 50, speed 20)
+Chrysalimon: Cyberdramon, Infermon, Taomon
+(Level 16, HP 150, attack 40)
+Greymon: MetalGreymon, BlackMetalGreymon, Megadramon, SkullGreymon
+(Level 16, attack 55, friendship 50)
+BlackGreymon: BlackMetalGreymon, Knightmon, DoruGreymon
+(Level 16, HP 150, attack 50)
+Clockmon: Andromon, Knightmon, Datamon, Wisemon
+(Level 14, intelligence 35)
+Kuwagamon: Cherrymon, Okuwamon, CannonBeemon
+(Level 14, attack 55)
+Gekomon: MegaSeadramon, ShogunGekomon, Whamon
+(Level 14, SP 40, intelligence 40)
+Geremon: Etemon, SuperStarmon, MetalMamemon
+(Level 12, HP 130, SP 25, defense 40)
+GoldNumemon: Vademon, PlatinumNumemon, BlackKingNumemon
+(Level 18, talent 5)
+Cyclomon: Megadramon, DoruGreymon, Datamon
+(Level 14, attack 30, defense 30)
+Sunflowmon: Angewomon, Lilamon, Lilymon
+(Level 14, HP 150, intelligence 40)
+Seadramon: ShogunGekomon, MegaSeadramon, Whamon
+(Level 14, defense 30, intelligence 40)
+GeoGreymon: Gigadramon, RizeGreymon, SkullGreymon
+(Level 15, HP 150, attack 50)
+Sukamon: SuperStarmon, Etemon, Vademon
+(Level 12, HP 150, defense 40)
+Starmon: Mamemon, MetalMamemon, SuperStarmon
+(Level 14, HP 150, defense 35)
+Stingmon: Infermon, Paildramon, Okuwamon
+(Level 14, attack 40, speed 55)
+Sorcerymon: Antylamon, Piximon, Wisemon
+(Level 16, SP 40, intelligence 40)
+Tankmon: Andromon, Gigadramon, CannonBeemon, Knightmon
+(Level 14, defense 55)
+Tyrannomon: Mamemon, Megadramon, BlackMetalGreymon, MetalTyrannomon
+(Level 14, HP 150, attack 40)
+Gatomon: Angewomon, Lilymon, Silphymon
+(Level 16, intelligence 40, friendship 25)
+Devimon: BlueMeramon, Infermon, BlackMetalGreymon, Myotismon
+(Level 16, attack 40, talent 5)
+Togemon: MachGaogamon, Lilymon, Pumpkinmon
+(Level 16, HP 300, defense 30, friendship 25)
+Dorugamon: RizeGreymon, DoruGreymon, Kirinmon
+(Level 14, attack 40, speed 40)
+Nanimon: Digitamamon, SuperStarmon, Meteormon
+(Level 12, attack 40, defense 40)
+Numemon: BlackKingNumemon, Etemon, Monzaemon
+(Level 12, HP 150, defense 40)
+Birdramon: AeroVeedramon, Garudumon, Kirinmon, Yatagaramon
+(Level 14, SP 40, speed 40)
+Bakemon: BlueMeramon, Pumpkinmon, Myotismon, LadyDevimon
+(Level 13, SP 40, intelligence 30)
+PlatinumSukamon: Etemon, MetalMamemon, Vademon
+(Level 20)
+BlackGatomon: Cyberdramon, Knightmon, LadyDevimon, BlackWereGarurumon
+(level 16, intelligence 40, friendship 25)
+Vegimon: Digitamamon, Lilamon, MegaKabuterimon
+(Level 12, HP 300)
+Peckmon: Antylamon, Piximon, Yatagarmon
+(Level 14, speed 50)
+Meramon: BlueMeramon, DeathMeramon, Mamemon, Panjymaon
+(Level 14, attack 40)
+Frigimon: Zudomon, Angewomon, Monzaemon
+(Level 11, HP 250, attack 30)
+Leomon: GrappLeomon, MetalGreymon, Meteormon, Panjyamon
+(Level 16, attack 55)
+Reppamon: Rapidmon, Piximon, Kirinmon
+(Level 16, speed 40, talent 5)
+Waspmon: CannonBeemon, Rapidmon, MegaKabuterimon, Okuwamon
+(Level 14, attack 40, speed 40)
+
+Ultimate/Perfect
+MegaKabuterimon: GranKuwagamon, Magnadramon, HerculesKabuterimon
+(Level 28, HP 400, defense 95)
+Antylamon: Cherubimon Virtue, Diaboromon, Dianamon
+(Level 28, attack 65, intelligence 75, speed 85)
+Andromon: Craniamon, HiAndramon, TigerVespamon
+(Level 28, attack 75, defense 75, intelligence 75)
+Meteormon: Ebemon, MetalEtemon, Dianamon
+(Level 26, defense 110)
+Infermon: Beelzemon, Diaboromon, VenomMyotismon
+(Level 30, attack 95, speed 80)
+Myotismon: Barbamon, Piedmon, VenomMyotismon
+(Level 30, attack 70, intelligence 90, talent 10)
+AeroVeedramon: Ravemon, Dynasmon, UlforceVeedramon
+(Level 30, attack 75, speed 95, friendship 25 
+Etemon: MetalEtemon, Piedmon, PlatinumNumemon
+(Level 26, SP 75, defense 75, speed 65)
+Angewomon: Magnadramon, Ophanimon, Mastemon
+(Level 30, SP 75, intelligence 100, talent 10)
+Okuwamon: Diaboromon, GranKuwagamon, HerculesKabuterimon
+(Level 26, attack 95, defense 90)
+Garudamon: Hououmon, Justimon, Ravemon
+(Level 30, attack 75, speed 75)
+Gigadramon: MetalSeadramon, Machinedramon, GrandLocomon
+(Level 26, HP 800, attack 75, defense 95)
+CannonBeemon: MegaGargomon, GrandLocomon, TigerVespamon
+(Level 28, defense 75, speed 75)
+GrappLeomon: BanchoLeomon, Duftmon, SaberLeomon
+(Level 26, HP 400, attack 95)
+Cyberdramon: Justimon, Titamon, Alphamon
+(Level 28, HP 040, attack 75, speed 75)
+Shakkoumon: Cherubimon Virtue, Vikemon, ChaosGallantmon
+(Level 30, defense 75, intelligence 65, friendship 100)
+Cherrymon: GranKuwagamon, Kuzuhamon, Puppetmon
+(Level 28, HP 800, defense 70)
+Silphymon: Dynasmon, Hououmon, Sakuyamon
+(Level 30, attack 60, intelligence 75, speed 75, friendship 100
+SuperStarmon: Justimon, Gankuumon, PlatinumNumemon
+(Level 28, SP 70, attack 70, defense 80)
+SkullGreymon: Daemon, ShineGreymon, Titamon
+(Level 28, attack 120, defense 85, speed 70)
+Zudomon: MetalGarurumon, MarineAngemon, Vikemon
+(Level 30, Hp 800, attack 75)
+Taomon: Dianamon, Kuzuhamon, Sakuyamon
+(level 30, SP 60, intelligence 75, speed 60)
+Kirinmon: MetalGarurumon, Seraphimon, Sleipmon
+(Level 30, SP 75, speed 100, talent 10)
+Digitamamon: Minervamon, Belphemon Sleep Mode, Titamon
+(Level 30, HP 700, defense 75)
+DeathMeramon: Gankuumon, Beelzemon, Boltmon
+(level 28, HP 500, attack 95)
+ShogunGekomon: Plesiomon, Leviamon, Vikemon
+(Level 26, HP 900)
+DoruGreymon: Alphamon, Examon, Sleipmon
+(Level 39, HP 400, attack 95, defense 75)
+Knightmon: Craniamon, Duftmon, LordKnightmon
+(Level 30, attack 75, defense 75)
+Datamon: Machinedramon, GrandLocomon
+(Level 28, SP 60, intelligence 85)
+Paildramon: Imperialdramon Dragon Mode
+(Level 30, attack 90, defense 60, speed 75, friendship 100)
+Panjyamon: Boltmon, SaberLeomon, MirageGaogamon
+(level 28, HP 350, attack 75, speed 75)
+Pumpkinmon: Boltmon, Puppetmon, Rosemon
+(Level 26, HP 850, attack 60, intelligence 60)
+Piximon: Hououmon, MarineAngemon, Ophanimon
+(Level 26, SP 75, intelligence 80, speed 80)
+BlackKingNumemon: PlatinumNumemon, MetalEtemon, PrinceMamemon
+(Level 32)
+BlueMeramon: Barbamon, Boltmon, Daemon
+(Level 28, HP 400, attack 80, intelligence 70)
+Vademon: Ebemon, HerculesKabuterimon, HiAndromon
+(Level 26, SP 85)
+Whamon: Plesiomon, MarineAngemon, MetalSeadramon
+(Level 28, HP 850, defense 75, intelligence 75)
+MagnaAngemon: ShineGreymon, LordKnightmon, Seraphimon
+(Level 30, SP 80, intelligence 80, talent 10)
+MachGaogamon: BanchoLeomon, MirageGaogamon, MegaGargomon
+(Level 26, attack 75, speed 80)
+Mamemon: Puppetmon, PrinceMamemon, WarGreymon
+(Level 26, attack 75, defense 80)
+MegaSeadramon: Leviamon, MetalSeadramon, Plesiomon
+(Level 30, HP 400, SP 70, intelligence 70)
+Megadramon: Machinedramon, UlforceVeedramon
+(Level 26, HP 400, attack 95, speed 75)
+WarGrowlmon: Gallantmon, ChaosGallantmon, RustTyrannomon
+(Level 30, attack 105, speed 75)
+MetalGreymon: RustTyrannomon, Gaioumon, WarGreymon
+(Level 30, HP 350, attack 100, friendship 50)
+BlackMetalGreymon: BlackWarGreymon, Gaioumon, WarGreymon
+(level 30 HP 450, attack 110 - DLC required)
+MetalTyrannomon: Gallantmon, RustTyrannomon
+(Level 28, attack 75, defense 95)
+MetalMamemon: Ebemon, HiAndramon, PrinceMamemon
+(Level 26, defense 80, intelligence 65)
+Monzaemon: Minervamon, Sakuyamon, SaberLeomon
+(Level 26, HP 600, attack 60)
+Yatagaramon: Minervamon, Ravemon, Kuzuhamon
+(Level 30, SP 75, speed 90)
+RizeGreymon: Examon, Gaioumon, ShineGreymon
+(Level 30, HP 350, attack 100, speed 75, friendship 50)
+Lilamon: Lilithmon, Lotusmon, Rosemon
+(Level 30, SP 75)
+Rapidmon: MegaGargomon, TigerVespamon
+(Level 28, attack 75, friendship 50)
+Lilymon: Magnadramon, Lotusmon, Rosemon
+(Level 30, intelligence 75, speed 75, friendshup 50)
+Lucemon FM: Lucemon SM
+(Level  55, attack 180, intelligence 240, speed 180, talent 80)
+LadyDevimon: Lilithmon, Lotusmon, Mastemon
+(Level 30, attack 90, speed 85, friendship 50)
+WereGarurumon: MetalGarurumon, MirageGaogamon
+(Level 28, attack 90, speed 85, friendship 50)
+BlackWereGarurumon: BlackMetalGarurumon, Minervamon, BanchoLeomon
+(Level 28, attack 90, speed 70)
+Wisemon: VenomMyotismon, Belphemon Sleep Mode, Piedmon
+(Level 28, PS 75, intelligence 100)
+
+Mega/Ultimate
+Alphamon
+(Level 60, attack 150, defense 170, intelligence 135, talent 40, clear challenge quest)
+UlforceVeedramon
+(level 60, attack 120, speed 145, talent 40, clear challenge quest)
+Ebemon
+(Level 45, SP 120, intelligence 120, talent 20)
+Imperialdramon Dragon Mode
+(Level 55, HP 1600, defense 150, speed 150, talent 20)
+Imperialdramon Fighter Mode
+(??? - he is in the game, but no requirements for him have been listed yet)
+Vikemon
+(Level 50, HP 1700, attack 130, defense 130, intelligence 120, talent 20)
+VenomMyotismon
+(Level 55, HP 1200, SP 110, attack 110, intelligence 110, talent 40)
+WarGreymon: Omegamon
+(Level 55, attack 160, defense 130, talent 20, friendship 80)
+Examon
+(Level 60, HP 1650, attack 150, speed 150, talent 40)
+Ophanimon
+(Level 55, SP 120, defense 120, intelligence 145, talent 40)
+Gaioumon
+(Level 50, attack 120, defense 100, speed 100, talent 20)
+ChaosGallantmon
+(Level 60, attack 130, defense 130, intelligence 130, talent 40)
+Gankuumon
+(Level 60, HP 1700, attack 145, defense 120, talent 40)
+Kuzuhamon
+(Level 55, SP 120, intelligence 135, speed 120, talent 20)
+GranKuwagamon
+(Level 45, HP 1500, attack 120, defense 120, talent 20)
+GrandLocomon
+(Level 50, defense 160, speed 120, talent 20)
+Craniamon
+(Level 60, SP 110, defense 180, intelligence 140, talent 40)
+Cherubimon Virtue
+(Level 55, SP 120, intelligence 145, speed 100, talent 40)
+SaberLeomon
+(Level 50, attack 145, speed 120, talent 20)
+Sakuyamon
+(Level 55, SP 120, intelligence 120, speed 120, talent 20)
+Jesmon
+(Level 60, attack 130, speed 120, talent 80, friendship 80, clear challenge quest)
+ShineGreymon
+(Level 55, attack 140, speed 130, talent 20, friendship 80)
+Justimon
+(Level 50, HP 1000, attack 130, defense 110, talent 20, friendship 80)
+Sleipmon
+(Level 60, defense 140, intelligence 120, speed 150, talent 40)
+Seraphimon
+(Level 55, SP 130, defense 130, intelligence 150, talent 40, friendship 50)
+MegaGargomon
+(Level 50, defense 130, speed 130, talent 20)
+TigerVespamon
+(Level 50, HP 1000, attack 120, speed 130, talent 20)
+Titamon
+(Level 55, HP 1400, attack 150, intelligence 120, talent 20)
+Dianamon
+(Level 55, defense 120, intelligence 130, speed 130, talent 20, DLC required)
+Diaboromon
+(Level 55, HP 1100, attack 180, speed 130, talent 20)
+Daemon
+(Level 60, HP 1600, attack 230, intelligence 160, talent 80)
+Gallantmon
+(Level 60, attack 140, defense 140, intelligence 140, talent 40, friendship 50)
+Dynasmon
+(Level 60, HP 1200, attack 140, defense 120, speed 130, talent 40, clear challenge quest)
+Duftmon: (Apparently you can get Duftmon Leopard Mode somehow, but the info for that is left blank, so unfortunately I don't know how to get him.)
+(Level 60, SP 100, intelligence 120, speed 104, talent 40)
+Duftmon Leopard Mode
+(???)
+HiAndromon
+(Level 55, attack 100, defense 130, intelligence 100, talent 20)
+Barbamon
+(Level 60, SP 160, defense 120, intelligence 200, talent 80)
+BanchoLeomon
+(Level 55, attack 120, defense 130, talent 20)
+Piedmon
+(Level 50, attack 130, intelligence 160, speed 110, talent 20)
+Puppetmon
+(Level 50, attack 130, defense 130, intelligence 130, talent 20)
+PlatinumNumemon
+(Level 65, talent 10)
+BlackWarGreymon: Omegamon Zwart
+(Level 55, HP 1800, attack 140, defense 140, talent 20, DLC required)
+PrinceMamemon
+(Level 45, defense 150, talent 20)
+Plesiomon
+(Level 50, SP 100, defense 120, intelligence 145, talent 20)
+HerculesKabuterimon
+(Level 50, HP 110, defense 150, intelligence 120, talent 20)
+Beelzemon
+(Level 60, HP 2000, attack 250, speed 150, talent 80)
+Belphemon Sleep Mode: Belphemon Rage Mode
+(Level 60, HP 1700, SP 140, intelligence 180, talent 80)
+Houomon
+(Level 50, intelligence 130, speed 150, talent 20)
+Magnadramon
+(Level 55, HP 900, SP 120, intelligence 145, talent 20)
+Boltmon
+(Level 50, attack 145, defense 100, talent 20)
+Mastemon
+(Level 60, SP 120, attack 120, intelligence 120, talent 80, friendship 100, reach story flag)
+MarineAngemon
+(Level 50, SP 110, intelligence 135, talent 20, friendship 50)
+Minervamon
+(Level 55, attack 150, speed 140, talent 20)
+MirageGaogamon
+(Level 55, attack 120, speed 130, talent 20)
+Machinedramon
+(Level 50, HP 1300, attack 130, defense 130, talent 20)
+MetalEtemon
+(Level 45, SP 100, attack 120, defense 140, talent 20)
+MetalGarurumon: Omegamon
+(Level 55, attack 130, defense 120, speed 150, talent 20, friendship 80)
+BlackMetalGarurumon: Omegamon Zwart
+(Level 55, defense 135, speed 125, talent 20, DLC required)
+MetalSeadramon
+(Level 50, SP 120, defense 120, intelligence 120, talent 20)
+RustTyrannomon
+(Level 55, HP 1300, attack 180, defense 150, talent 20)
+Leviamon
+(Level 60, HP 2000, SP 140, attack 140, defense 140, intelligence 140, talent 80)
+Lilithmon
+(Level 60, SP 200, intelligence 250, speed 130, talent 80)
+Ravemon
+(Level 55, attack 130, speed 160, talent 20)
+LordKnightmon
+(Level 60, attack 120, intelligence 135, speed 150, talent 40, friendship 50, clear challenge quest)
+Rosemon
+(Level 55, SP 120, intelligence 120, talent 20)
+Lotusmon
+(Level 55, intelligence 170, speed 130, talent 20)
+
+Armor
+Flamedramon
+(Level 14, attack 40, speed 40, friendship 25, obtain digimental from quest)
+Magnamon
+(Level 60, attack 120, defense 145, talent 40, friendship 50, obtain digimental from quest)
+Rapidmon Armor
+(Level 50, attack 100, defense 120, intelligence 120, talent 20, friendship 50, obtain digimental from quest)
+
+Beyond Mega
+Imperialdramon Paladin Mode
+(Level 70, attack 160, intelligence 160, speed 160, talent 100, clear challenge quest and get Omega Blade)
+Omegamon
+(Level 60, attack 200, intelligence 150, speed 150, talent 40, friendship 100, clear challenge request and get item)
+Omegamon Zwart
+(Level 60, HP 1500, attack 150, defense 200, talent 40, friendship 100, DLC required, clear challenge quest)
+Belphemon Rage Mode
+(??? Requirements unlisted)
+Lucemon SM
+(Level 70, HP 1400, SP 160, attack 130, intelligence 250, speed 170, talent 100)
