@@ -3549,8 +3549,7 @@ Digivolution Requirements
 Digivolves Into	Level	HP	SP	ATK	DEF	INT	ABI	CAM	Jogress
 Magnadramon	55	900	120			145	20
 Ophanimon	55		120		120	145	40
-Mastemon*	60		120	120		120	80	100%	LadyDevimon at 100%
-For Mastemon, a different dimension door has to be opened (i.e., view a story scene just before this point in chapter 15).
+Mastemon	60		120	120		120	80	100%	LadyDevimon at 100%
 Okuwamon オオクワモン
 
 No. 118
@@ -5113,8 +5112,7 @@ Digivolution Requirements
 Digivolves Into	Level	SP	ATK	INT	SPD	ABI	CAM	Jogress
 Lilithmon	60	200		250	130	80
 Lotosmon	55			170	130	20
-Mastemon*	60	120	120	120		80	100%	Angewomon at 100%
-For Mastemon, a different dimension door has to be opened (i.e., view a story scene just before this point in chapter 15).
+Mastemon	60	120	120	120		80	100%	Angewomon at 100%
 WereGarurumon ワーガルルモン
 
 No. 164
